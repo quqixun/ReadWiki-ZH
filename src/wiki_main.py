@@ -28,13 +28,13 @@ print('Content xml:', xml_path)
 # xml_path = '../data/zhwiki-20190801-pages-articles-multistream.xml.bz2'
 
 md_parser = WIKIParse(
-	xml_path, save_as='md',
-	output_dir='../data/words_md'
+    xml_path, save_as='md',
+    output_dir='../data/words_md'
 )
 md_parser.run()
 
 txt_parser = WIKIParse(
-	xml_path, save_as='txt',
-	output_dir='../data/words_txt'
+    xml_path, save_as='txt',
+    output_dir='../data/words_txt'
 )
 txt_parser.run()
