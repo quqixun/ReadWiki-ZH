@@ -1,0 +1,161 @@
+Linux
+
+Linux（s əks）是一种自由和开放源码的类UNIX 作业系统。该操作系统的内核由林纳斯·托瓦兹在1991年10月5日首次发布，在加上使用者空间的应用程式之后，成为 Linux 作业系统。Linux 也是自由软件和开放源代码软件发展中最著名的例子。只要遵循 GNU 通用公共许可证（GPL），任何个人和机构都可以自由地使用 Linux 的所有底层源代码，也可以自由地修改和再发布。大多数 Linux 系统还包括像提供 GUI 的 X Window 之类的程序。除了一部分专家之外，大多数人都是直接使用 Linux 发行版，而不是自己选择每一样组件或自行设置。
+Linux严格来说是单指作业系统的内核，因作业系统中包含了许多用户图形介面和其他实用工具。如今Linux常用来指基于Linux的完整操作系统，内核则改以Linux内核称之。由于这些支持用户空间的系统工具和库主要由理查德·斯托曼于1983年发起的GNU计划提供，自由软件基金会提议将其组合系统命名为GNU/Linux，但Linux不属于GNU计划，这个名称并没有得到社群的一致认同。
+Linux最初是作为支持英特尔x86架构的个人电脑的一个自由操作系统。目前Linux已经被移植到更多的计算机硬件平台，远远超出其他任何操作系统。Linux可以运行在服务器和其他大型平台之上，如大型计算机和超级计算机。世界上500个最快的超级计算机90％以上运行Linux发行版或变种，包括最快的前10名超级电脑运行的都是基于Linux内核的操作系统。Linux也广泛应用在嵌入式系统上，如手机（Mobile Phone）、平板电脑（Tablet）、路由器（Router）、电视（TV）和电子游戏机等。在移动设备上广泛使用的Android操作系统就是建立在Linux内核之上。
+通常情况下，Linux被打包成供个人计算机和服务器使用的Linux发行版，一些流行的主流Linux发布版，包括Debian（及其衍生版本Ubuntu、Linux Mint）、Fedora（及其相关版本Red Hat Enterprise Linux、CentOS）和openSUSE等。Linux发行版包含Linux内核和支撑内核的实用程序和库，通常还带有大量可以满足各类需求的应用程序。个人计算机使用的Linux发行版通常包含X Window和一个相应的桌面环境，如GNOME或KDE。桌面Linux操作系统常用的应用程序，包括Firefox网页浏览器、LibreOffice办公软件、GIMP图像处理工具等。由于Linux是自由软件，任何人都可以创建一个符合自己需求的Linux发行版。
+
+1 发音
+根据托瓦兹的说法，Linux的发音和「Minix」是押韵的。
+「Li」中「i」的发音类似于「Minix」中「i」的发音，而「nux」中「u」的发音类似于英文单词「profess」中「o」的发音。依照国际音标应该是'linэksˈlɪnəks。
+此外有一份林纳斯·托瓦兹本人说话的录音，录音内容为「Hello, this is Linus Torvalds, and I pronounce Linux as Linux」，也表明了作者对单词的读法。（s əks）
+
+2 历史
+林纳斯·托瓦兹，Linux内核首创者。
+
+2.1 UNIX渊源
+UNIX操作系统（UNIX），是美国AT&T公司贝尔实验室于1969年完成的操作系统。最早由肯·汤普逊（Ken Thompson），丹尼斯·里奇（Dennis Ritchie），道格拉斯·麦克罗伊（Douglas McIlroy），和乔伊·欧桑纳于1969年在AT&T贝尔实验室开发。于1971年首次发布，最初是完全用汇编语言编写。后来，在1973年用一个重要的开拓性的方法，Unix被丹尼斯·里奇用编程语言C（内核和I/O例外）重新编写。高级语言编写的操作系统具有更佳的兼容性，能更容易地移植到不同的计算机平台。
+1983年，理查德·马修·斯托曼创立GNU计划。这个计划有一个目标，是为了发展一个完全自由的类Unix作业系统。自1984年发起这个计划以来，在1985年，理查德·马修·斯托曼发起自由软体基金会并且在1989年撰写GPL。1990年代早期，GNU开始大量地产生或收集各种系统所必备的元件，像是——函式库、编译器、侦错工具、文字编辑器，以及一个Unix的使用者介面（Unix shell）——但是像一些底层环境，如硬体驱动、守护进程、系统核心（kernel）仍然不完整和陷于停顿，GNU计划中是在Mach微内核的架构之上开发系统核心，也就是所谓的GNU Hurd，但是这个基于Mach的设计异常复杂，发展进度则相对缓慢。林纳斯·托瓦兹曾说过如果GNU核心在1991年时可以用，他不会自己去写一个。
+386BSD涉及的法律问题直到1992年还没有解决，NetBSD和FreeBSD是386BSD的后裔，早于Linux。林纳斯·托瓦兹曾说，当时如果有可用的386BSD，他就可能不会编写Linux。
+MINIX是一个轻量小型并采用微内核(Micro-Kernel)架构的类Unix作业系统，是安德鲁·斯图尔特·塔能鲍姆为在电脑科学用作教学而设计的。
+
+2.2 创立
+1991年，林纳斯·托瓦兹在赫尔辛基大学上学时，对作业系统很好奇。他对MINIX只允许在教育上使用很不满（在当时MINIX不允许被用作任何商业使用），于是他便开始写他自己的作业系统，这就是后来的Linux核心。
+林纳斯·托瓦兹开始在MINIX上开发Linux内核，为MINIX写的软体也可以在Linux内核上使用。后来使用GNU软体代替MINIX的软体，因为使用从GNU系统来的原始码可以自由使用，这对Linux的发展有益。使用GNU GPL协议的原始码可以被其他项目所使用，只要这些项目使用同样的协议发布。为了让Linux可以在商业上使用，林纳斯·托瓦兹决定更改他原来的协议（这个协议会限制商业使用），以GNU GPL协议来代替。之后许多开发者致力融合GNU元素到Linux中，做出一个有完整功能的、自由的作业系统。
+
+2.3 命名
+Linux的第一个版本在1991年9月被大学FTP server管理员-{Ari Lemmke}-发布在Internet上，最初Torvalds称这个核心的名称为"Freax"，意思是自由（"free"）和奇异（"freak"）的结合字，并且附上"X"这个常用的字母，以配合所谓的类Unix的系统。但是FTP伺服器管理员嫌原来的命名「Freax」的名称不好听，把核心的称呼改成「Linux」，当时仅有10000行程式码，仍必须执行于Minix作业系统之上，并且必须使用硬碟开机；随后在10月份第二个版本（0.02版）发布，同时这位芬兰赫尔辛基的大学生在comp.os.minix上发布一则讯息
+Hello everybody out there using minix-
+I'm doing a (free) operation system (just a hobby,
+won't be big and professional like gnu) for 386(486) AT clones.
+Linux的标志和吉祥物是一只名字叫做Tux的企鹅，标志的由来有一说是因为Linus在澳洲时曾被一只动物园里的企鹅咬了一口，便选择企鹅作为Linux的标志，但更容易被接受的说法是：企鹅代表南极，而南极又是全世界所共有的一块陆地。这也就代表Linux是所有人的Linux。
+
+2.4 发展现状
+1994年3月，Linux1.0版正式发布，Marc Ewing成立Red Hat软件公司，成为最著名的Linux经销商之一。早期Linux的开机管理程式（boot loader）使用LILO（Linux Loader），早期的LILO存在著一些难以容忍的缺陷，例如无法识别1024柱面以后的硬碟空间，后来的GRUB（GRand Unified Bootloader）克服这些缺点，具有『动态搜寻核心档案』的功能，可以让用户在开机的时候，自行编辑开机设定系统档案，透过ext2或ext3档案系统中载入Linux Kernel（GRUB通过不同的文件系统驱动可以识别几乎所有Linux支援的文件系统，因此可以使用很多文件系统来格式化核心文件所在的磁区，并不局限于ext文件系统）。
+今天由Linus Torvalds带领下，众多开发共同参与开发和维护Linux内核。理查德·斯托曼领导的自由软件基金会，继续提供大量支持Linux内核的GNU组件。一些个人和企业开发的第三方的非GNU组件也提供对Linux内核的支持，这些第三方组件包括大量的作品，有内核模块和用户应用程序和库等内容。Linux社区或企业都推出一些重要的Linux发行版，包括Linux内核、GNU组件、非GNU组件，以及其他形式的软件包管理系统软件。
+
+3 系统架构
+Linux内核支持各种硬件架构，为软件（包括可能的专有软件）提供公共平台。
+基于Linux的系统是一个模块化的类Unix操作系统。Linux操作系统的大部分设计思想来源于20世纪70年代到80年代的Unix操作系统所建立的基本设计思想。Linux系统使用宏内核，由Linux内核负责处理进程控制、网络，以及外围设备和文件系统的访问。在系统运行的时候，设备驱动程序要么与内核直接整合，要么以加载模块形式添加。
+Linux具有设备独立性，它内核具有高度适应能力，从而给系统提供了更高级的功能。GNU用户界面组件是大多数Linux操作系统的重要组成部分，提供常用的C函数库，Shell，还有许多常见的Unix实用工具，可以完成许多基本的操作系统任务。大多数Linux系统使用的图形用户界面建立在X窗口系统之上，由X窗口(XWindow)系统通过软件工具及架构协议来建立操作系统所用的图形用户界面。
+已安装Linux操作系统包含的一些组件：
+* 启动程序：例如GRUB或LILO。该程序在计算机开机启动的时候运行，并将Linux内核加载到内存中。
+* init程序：init是由Linux内核创建的第一个进程，称为根进程，所有的系统进程都是它的子进程，即所有的进程都是通过init启动。init启动的进程如系统服务和登录提示（图形或终端模式的选择）。
+* 软件库包含代码：可以通过运行的进程在Linux系统上使用ELF格式来执行文件，负责管理库使用的动态链接器是“ld-linux.so”。Linux系统上最常用的软件库是GNU C库。
+* 用户界面程序：如命令行Shell或窗口环境。
+
+
+4 Linux发行版
+Ubuntu是一个流行的桌面Linux发行版。
+Linux发行版指的就是通常所说的「Linux作业系统」，它一般是由一些组织、团体、公司或者个人制作并发行的。Linux内核主要作为Linux发行版的一部分而使用。通常来讲，一个Linux发行版包括Linux核心，以及将整个软体安装到电脑上的一套安装工具，还有各种GNU软体，和其他的一些自由软体，在一些Linux发行版中可能会包含一些专有软体。发行版为许多不同的目的而制作，包括对不同电脑硬体结构的支援，对普通用户或开发者使用方式的调整，针对实时应用或嵌入式系统的开发等等。目前，超过三百个发行版被积极的开发，最普遍被使用的发行版有大约十二个。较为知名的有Debian、Ubuntu、Fedora和openSUSE等。
+一个典型的发行版包括：Linux核心，GNU函式库和各种系统工具，命令行Shell，图形界面底层的X Window系统和上层的桌面环境等。桌面环境有如KDE或GNOME等，并包含数千种从办公套件，编译器，文字编辑器，小游戏，儿童教育软体，到科学工具的应用软体。
+很多发行版含有LiveCD的方式，就是不需要安装，放入系统光碟或其它介质进行启动，就能够在不改变现有系统的情况下使用。比较著名的有Damn Small Linux，Knoppix等。LiveCD的相关技术进步至此，很多的发行版本身的安装光碟也有LiveCD的功能。
+
+5 Linux的应用
+今天各种场合都有使用各种Linux套件，从嵌入式设备到超级电脑（Super Computer），并且在伺服器领域确定了地位，通常伺服器使用LAMP组合。在家庭与企业中使用Linux套件的情况越来越多。并且在政府中也很受欢迎，巴西联邦政府因支持Linux而世界闻名。有新闻报导俄罗斯军队自己制造的Linux发行版，做为G.H.ost项目已经取得成果。印度的喀拉拉邦计划在向全联邦的高中推广使用Linux。中华人民共和国为取得技术独立，在龙芯过程中排他性地使用Linux。
+在西班牙的一些地区开发了自己的Linux发行版，并且在政府与教育领域广泛使用，如埃斯特雷马杜拉地区的gnuLinEx和安达卢西亚地区的Guadalinex。葡萄牙同样使用自己的Linux发行版Caixa Mágica，用于Magalhães笔记型电脑和e-escola政府软体。法国和德国同样开始逐步采用Linux。
+传统的Linux使用者一般都是专业人士。他们愿意安装并设置自己的作业系统，往往比其他作业系统的用户花更多的时间在安装并设置自己的作业系统。这些用户有时被称作「骇客」或是「极客」。
+使用Linux主要的成本为移植、培训和学习的费用，早期由于会使用Linux的人较少，并且在软体设计时并未考虑非专业者的使用，导致这方面费用极高。但这方面的费用已经随著Linux的日益普及和Linux上的软体越来越多、越来越方便而降低，但专业仍是使用Linux的主要成本。
+然而随著Linux慢慢开始流行，有些原始设备制造商（OEM）开始在其销售的电脑上预装上Linux，Linux的用户中也有了普通电脑用户，Linux系统也开始慢慢出现在个人电脑作业系统市场。Linux在欧洲、美国和日本的流行程度较高，欧美地区还发行Linux平台的游戏和其他家用软体。Linux开源社群方面也是以欧洲、美国、日本等已开发国家的人士居多。
+每个孩子一台笔记型电脑这一项目正在催生新的更为庞大的Linux用户群，计划将包括发展中国家的几亿学童、他们的家庭和社区。在2007年，已经有六个国家订购了至少每个国家一百万台以上免费发放给学生。Google、Red Hat和eBay是该项目的主要支持者。
+基于其低廉成本与高度可设定性，Linux常常被应用于嵌入式系统，例如机上盒、行动电话及行动装置等。在行动电话上，Linux已经成为IOS的主要竞争者；而在行动装置上，则成为Windows CE与Palm OS之外另一个选择。目前流行的TiVo数位摄影机使用了经过客制化后的Linux。此外，有不少硬体式的网路防火墙及路由器，例如部份LinkSys的产品，其内部都是使用Linux来驱动、并采用了作业系统提供的防火墙及路由功能。
+
+5.1 个人电脑
+Display server、部件引擎、和一些更加广为流传的部件工具箱。还有些部件对最终用户不可见，包括D-Bus和PulseAudio。
+转换作业系统的开销：自由开源意识形态与商业用途的冲突、缺乏强而有力的推广厂商、缺乏对特殊的硬件和应用程序的支援、电脑技术人员不愿再花费时间重复学习、对已有平台的依赖，是制约Linux被采纳的主要因素。
+目前能在Windows或Mac OS上执行的应用软体大部分都没有Linux的版本，不过在Linux平台上通常可以找到类似功能的应用软件。大多数在Windows平台上广泛使用的自由软体都有相应的Linux版本，例如LibreOffice、Mozilla Firefox、Apache OpenOffice、Pidgin、VLC、GIMP；部分流行的专有软件也有相应的Linux版本，如Adobe Flash Player、Adobe Reader、Google Earth、Nero Burning ROM、Opera、Maple、MATLAB、Skype、Maya、SPSS、Google Chrome。
+另外，相当多的Windows应用程式可以通过Wine和一些基于Wine的项目如CrossOver正常运行和工作。如Microsoft Office、Adobe Photoshop、暴雪娱乐的游戏、Picasa其中对于Photoshop的Crossover（Wine）相容性工作有Disney、DreamWorks、Pixar投资支援，等。Google大力参与Wine项目改进，Picasa的GNU/Linux版本也是经Wine测试的Windows平台编译版本。
+整个亚洲，比较缺乏对Linux的支援，硬体和应用程式皆只考量微软作业系统设计的需求。例如：Internet Explorer及ActiveX需求、Microsoft Office相容性、网络游戏以及一般用户都倾向于使用Windows。
+但是，Linux下也有相当多不能在Windows平台下执行的软体，主要是依靠X Window系统和其他Windows无法利用的资源，或者是因为稳定性等其他方面的考虑并不准备支援Windows。不过近年来，也不断向其移植。有如KDE SC、Cinepaint正在进行向Windows的移植。Linux使用的增多也使得Windows开源软体(Open Source)向Linux移植，比如Filezilla。
+File:CDE Debian Workspace 1.png|CDE
+File:Fedora Showing Gnome 3.22.2 showing overview.png|GNOME
+File:Ubuntu Mate traditional.png|MATE
+File:KDE Plasma 5.png|KDE Plasma
+File:XFCE-4.12-Desktop-standard.png|Xfce
+File:Lxde-desktop-full.png|LXDE
+File:LXQt 0.10 - Ambiance.png|LXQt
+File:2010-04-24-133031_1280x800_scrot.png|Openbox
+File:Fluxbox.png|Fluxbox
+File:I3_window_manager_screenshot.png|i3
+File:E17 screenshot.jpg|Enlightenment
+File:App Lens on Ubuntu 16.04LTS.png|Unity
+File:Linux Mint 19 "Tara" (Cinnamon).png|Cinnamon
+File:Elementary OS 5.0 Juno with Croatian Wikipedia.png|Pantheon
+File:Budgie_Desktop_Environment.png|Budgie (desktop environment)
+File:Screenshot of Trinity Desktop Environment (TDE) R14.0.5 Development.png|Trinity
+File:Sugar-home-view-0.82.jpg|Sugar
+
+5.2 上网本
+Linux发行版同样在上网本市场很受欢迎，像ASUS Eee PC和Acer Aspire One，销售时安装有订制的Linux发行版。
+
+5.3 服务器、主机和超级计算机
+LAMP软件组合的梗概。
+Linux发行版一直被用来作为服务器的操作系统，并且已经在该领域中占据重要地位。根据2006年9月Netcraft的报告显示，十个最大型的网络托管公司有八个公司在其Web服务器运行Linux发行版。
+Linux发行版是构成LAMP（Linux操作系统，Apache，MySQL，Perl / PHP / Python）的重要部分，LAMP是一个常见的网站托管平台，在开发者中已经得到普及。
+Linux发行版也经常使用作为超级计算机的操作系统，2010年11月公布的超级计算机前500强，有459个（91.8％）运行Linux发行版。曾经是世界上最强大的超级计算机——IBM的红杉（IBM Sequoia），已于2011年交付劳伦斯利福摩尔国家实验室，并于2012年6月开始运作，也是选择Linux作为操作系统。
+
+5.4 嵌入式设备
+Android是建基于Linux的作业系统，在智能手机上相当热门。
+Linux的低成本、强大的定制功能以及良好的移植性能，使得Linux在嵌入式系统方面也得到广泛应用。流行的TiVo数字视频录像机还采用了定制的Linux，思科在网络防火墙和路由器也使用了定制的Linux。Korg OASYS、Korg的KRONOS、雅马哈的YAMAHA MOTIF XS/Motif XF音乐工作站、雅马哈的S90XS/S70XS、雅马哈MOX6/MOX8次合成器、雅马哈MOTIF-RACK XS音源模块，以及Roland RD-700GX数码钢琴均运行Linux。Linux也用于舞台灯光控制系统，如WholeHogIII控制台。
+在智能手机、平板电脑等移动设备方面，Linux也得到重要发展，基于Linux内核的Android操作系统已经超越诺基亚的Symbian操作系统，成为当今全球最流行的智能手机操作系统。在2010年第三季度，销售全球的全部智能手机中使用Android的占据25.5%（所有的基于Linux的手机操作系统在这段时间为27.6%）。
+从2007年起，手机和掌上电脑上运行基于Linux的操作系统变得更加普遍，例如：诺基亚 N810、OpenMoko的Neo1973、摩托罗拉的ROKR E8。Palm（后来被HP公司收购）推出了一个新的基于Linux的webOS操作系统，并使用在新生产的Palm Pre智能手机上。
+MeeGo是诺基亚和英特尔于2010年2月联合推出的基于Linux的操作系统，诺基亚也推出了使用MeeGo操作系统的N9手机。2011年9月28日，继诺基亚宣布放弃开发MeeGo之后，英特尔也正式宣布将MeeGo与LiMo合并成为新的系统Tizen。Jolla Mobile公司成立并推出了由MeeGo发展而来的Sailfish操作系统。2012年，Mozilla推出基于Linux核心的Firefox OS操作系统。
+
+5.5 使用比例
+很多开源软体的定量研究聚焦在市场占有率（虽然多数不算作市场中的商品）和可靠性，包括数不清的Linux分析报告。Linux份额成长迅速。IDC的2008年第二季度报告指出，Linux在所有伺服器市场的市占率已经达到29%，比该研究机构在2007年的调查大幅增加了12个百分点。这个估计数字基于Linux伺服器的销售额。
+所以，Linux的市占率是不可小觑的。Netcraft报告，在2010年二月，每10台可靠的伺服器中Linux发行版占6台，FreeBSD占2台，Windows占1台。而Debian、CentOS两个至关重要的发行版并不销售。
+
+6 版权，商标和命名
+Linux的注册商标是Linus Torvalds所有的。这是由于在1996年，一个名字叫做William R. Della Croce的律师开始向各个Linux发布商发信，声明他拥有Linux商标的所有权，并且要求各个发布商支付版税，这些发行商集体进行上诉，要求将该注册商标重新分配给Linus Torvalds。Linus Torvalds一再声明Linux是自由且免费的，他本人可以卖掉，但Linux绝不能卖。
+“GNU/Linux”此名称是GNU计划的支持者与开发者，特别是其创立者理查德·斯托曼对于Linux作业系统的主张。由于此类操作系统使用了众多GNU程序，包含Bash（Shell程式）、函式库、编译器等等作为Linux核心上的系统套件，理查德·斯托曼认为应该将该操作系统称为「GNU/Linux」或「GNU+Linux」较为恰当，但现今多数人仍称其为Linux。就1997年之前的Linux来看，一间CD-ROM的供应商所提供的资料显示在他们的“Linux 发行版”中，GNU 软件所占最大的比重，大约占全部源代码的28%，且还包括一些关键的部件，如果没有这些部件，系统就无法工作，而Linux 本身占大约3%。
+Linux社群中的一些成员，如埃里克·雷蒙、林纳斯·托瓦兹等人，偏好Linux的名称，认为Linux朗朗上口，短而好记，拒绝使用「GNU/Linux」作为操作系统名称。并且认为Linux并不属于GNU计划的一部份，斯托曼直到1990年代中期Linux开始流行后才要求更名。有部分Linux套件，如Debian，采用了「GNU/Linux」的称呼。但大多数商业Linux套件依然将操作系统称为Linux。而有些人则认为「操作系统」一词指的只是系统的内核(Kernel)，其他程序都只能算是应用软件，因而，该操作系统应叫Linux，但Linux系统套件是在Linux内核的基础上加入各种GNU软件套件集合而成的。
+在这两个主要名称之外，也有其他名称的提议。1992年，Yggdrasil Linux主张命名为Linux/GNU/X，因为除了GNU计划软体之外，很多Linux还采用了X视窗系统。
+
+7 评价
+
+7.1 正面
+* 开放原始码的Linux可以让知识延续下去，新兴的软体公司可以从开放原始码上快速、低价的建立专业能力，丰富市场的竞争，防止独霸软体巨兽的存在。
+* 个人使用很少有版权问题，绝大多数都是免费使用，几乎无所谓盗版问题。
+* 新的Linux发行版大多数软体都有伺服器的服务，只要点选就可以自动下载、安装经过认证的软体，不需要到市面购买、安装。
+* Linux学习的投资有效时间较长。旧版软体、系统都还是存在，有原始码可以衍生、分支，维护周期普遍比Windows长很多。就算被放弃，还是可以凭借原始码衍生。新的软体更新发展多样化，容易养成使用者习惯掌握原理，而不是养成操作习惯。
+* 强大的Shell及脚本支援，容易组合出符合需求的环境或创造自动程序。
+* 预设安全设定相对于目前主流的Windows作业系统安全很多。Windows作业系统为了非专业使用者降低了预设安全性的设定，导致系统容易受到木马、病毒的侵害。盗版的Windows更糟糕，可能随盗版作业系统捆绑木马、恶意程式，部分预设超级使用者（Administrator）登录、关闭安全更新等问题导致安全性更差。
+
+
+7.2 负面
+* BSD的开发人员曾经批评过Linux核心开发人员过于重视新功能的添加而不是踏踏实实的把程式码写好、整理好。
+* Minix爱好者认为微核心是将来技术发展的方向，Linux在技术上是落伍陈旧的。（参见塔能鲍姆-林纳斯辩论）
+* 软硬体支援性较差。大部份的软、硬体厂商没有或者不会优先开发Linux平台的版本，或者Linux平台的版本功能较少，致使可用的应用程式、硬体周边支援性相较于Windows、Mac平台差。
+* 相当多的发行版（超过200个以上），使程式开发者无法针对所有发行版做测试，使用Linux平台的应用软体安装在非主流发行版可能遭遇预料之外的问题或甚至于无法使用。
+* Linux系统及相关应用软体主要是由黑客等程式设计师及其它Linux爱好者共同合作开发出来的，所以缺少了商业软体基于商业利益而调整操作界面使之更适合不同使用者的行为。对Linux使用方式的不习惯，以及不同软体操作方式缺乏一致性使得使用者产生Linux系统难以使用的感受。
+
+
+8 参考文献
+
+8.1 引用
+
+8.2 来源
+* cite book  |last1 = Torvalds |first1 = Linus  |last2 = Diamond|first2 = David |title=Just for Fun: The Story of an Accidental Revolutionary |publisher=Harper-Collins Business |ISBN =
+* ISBN = 978-0-7139-9520-6
+* archivedate=2005-04-07
+* accessdate = 2004-01-19
+* accessdate=2005-12-22
+
+
+9 参见
+* 作业系统列表、Microsoft Windows与Linux的比较
+* Linux内核
+* Linux发行版：Linux发行版列表
+* Tux
+* Linux的采用
+* Netcraft
+
+
+10 外部连结
+* Linux内核官方网站
+* Linux基金会官方网站
+* GNU项目官方网站
+* The Linux文档项目
+* Linux25 周年：专访 Linux 之父 Linus Torvalds
+
+

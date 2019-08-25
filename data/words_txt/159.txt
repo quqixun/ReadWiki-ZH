@@ -1,0 +1,173 @@
+植物学
+植物学是一门研究植物形态解剖、生长发育、生理生态、系统进化、分类以及与人类的关系的综合性科学，是生物学的分支学科。
+
+1 历史
+人类对植物的认识最早可以追溯到旧石器时代，人类在寻找食物的过程中采集了植物的种子、茎、根和果实。植物学的创始人是泰奥弗拉斯托斯，在他的著作《植物历史》（也称《植物调查》）中将植物进行了分类。
+1世纪希腊医生迪奥科里斯的著作《药物论》（De Materia Medica）为以后药用植物的使用奠定了基础。1593年中国明朝的李时珍也完成了《本草纲目》的编写。17世纪末英国生物学家约翰·雷确立了现代植物分类的基本原理。17世纪，出现了各式各样的显微镜，开创了植物解剖学的研究，随后植物生理学和植物胚胎学也得到进一步的发展，到19世纪中期植物学各分支学科已基本形成。
+中国近代植物植物分类学的奠基人是胡先骕，编写了中国第一部中文《高等植物学》，发现了中国的“活化石”水杉，并将其命名。
+
+1.1 早期的植物学
+一个植物学家的传统工具
+植物学的历史包括几个早期文明的著作与植物分类。例如古代印度的宗教著作，古代琐罗亚斯德教的著作，p=117及古代中国的著作。秦汉时期的《神农本草经》是中国最早的药用植物志。p=10古希腊亚里士多德的学生泰奥弗拉斯托斯被视为植物学的创始人。2006他发明并描述了许多现代植物学的原理。pp=140–142他的两个主要著作《植物历史》和《植物本原》是古代和中世纪的植物学的重要组成部分，其后的17个世纪一直占重要的地位。p=10p=301世纪希腊医生迪奥科里斯的著作《植物志》（De Materia Medica），是一本共5卷的药草百科全书，对其后的1500多年有广泛的影响。p=532中世纪的伊斯兰世界的著作包括Ibn Wahshiyya的Nabatean Agriculture，Abū Ḥanīfa Dīnawarī的Book of Plants和Ibn Bassal的The Classification of Soils。13世纪早期，Abu al-Abbas al-Nabati和Ibn al-Baitar也有植物学的著作p=197p=116
+
+1.2 早期的现代植物学
+Crantz的Classis cruciformium, 1769
+德国医生莱昂哈特·福克斯是三位德国植物学之父之一，其余两位是奥托·布伦费尔斯和希罗宁姆斯·博克。2007
+在1546年所写的Dispensatorium是药典中的经典著作。1939康拉德·格斯纳和尼可拉斯·卡尔培柏也写了药用植物的著作。乌利塞·阿尔德罗万迪被认为是“自然历史之父”，他的研究内容包括植物。1665年，罗伯特·胡克从树皮切了一片软木薄片，并放到自己发明的显微镜观察到了细胞。20011690年约翰·雷首次给物种下定义，依据花和营养器官的性状进行分类，并用一个分类系统处理了18000种植物。p=101735年，卡尔·林奈出版了《自然系统》一书，在这本书中，林奈把自然界分成植物界、动物界和矿物界，并将动物和植物按纲、目、属、种、变种5个等级归类，特别是他在1753年发表的《植物种志》中对7300种植物正式使用了双名法进行命名。p=11
+随着植物解剖学和植物形态学及生命周期的知识的发展，人们意识到植物间的亲缘不止是林奈所描述的那样。
+（1763）, 安托万·罗兰·德朱西厄（1789）和奥古斯丁·彼拉姆斯·德堪多（1819）所提出的分类系统调整得到广泛的接受。进化论中的自然选择概念的提出，使人们开始了植物的进化关系和系统发育分类的研究。pp=493–519
+马蒂亚斯·雅各布·施莱登1838年发表了《植物发生论》（Grundzuge der Wissenschaftlichen），书中指出细胞是植物的结构单位，这本书对植物学有很大的影响。p=377 卡尔·路德维希·韦尔登诺分析了种子散布与分布，植物种群，地质历史的影响之间的联系，并开创了植物地理学. 1831年罗伯特·布朗发现了细胞核.pp=76–81
+
+1.3 现代植物学
+近30多年来，分子生物学和近代技术科学，以及数学、物理学、化学的新概念和新技术被引入到植物学领域，植物学科在微观和宏观的研究上均取得了突出成就，无论在研究的深度和广度上都达到了一个新的水平p=12。当今相当多的新知识都是从研究模式植物而来的，如拟南芥。这种十字花科的杂草物种是最早的基因组测序植物之一。水稻基因组相对较小，同时国际水稻基因定序工程也把它定为重要的谷物/草/单子叶植物模型2000。
+另一个草物种二穗短柄草也是一个有助理解遗传学，细胞学和分子生物学的实验模型2012。
+对其他重要的商业主粮如小麦, 玉米, 大麦, 黑麦，御谷和大豆都有基因组测序。其中部分植物对基因组测序是一个挑战，因为他们的染色体中有两个以上的单倍体NoteTag|这种情况称作多倍体，在植物中很常见。。另外，一种绿色水藻莱茵衣藻作为模式生物，给细胞生物学提供了重要的知识p=5370。
+
+2 研究领域与重要性
+木槿属
+从分子生物学, 遗传学和生物化学级别到细胞器, 细胞, 组织, 器官，个体，植物种群，植物群落等方面都是对植物的研究范畴。在这些研究分支上的植物学家可能会涉及分类学，解剖学和形态学，以及生理学等方面。p=5368
+以前所有生命都被分成动物或植物，p=56而植物学就是专门研究那些动物以外的生物。
+现在植物的定义是通过光合作用从太阳光中获得能量的生物，或者是无叶绿素的寄生植物.
+而以前植物学则包括细菌，真菌，地衣，非绿藻类水藻和病毒。不过植物学家仍很关注这些物种，而真菌和原生生物也包含在植物学课程内。pp=10–11
+对植物的研究是很重要的，因为植物是生物的基本组成部分，他们生产人类和其他生物赖以生存的氧气和食物。此外，植物能防止土壤侵蚀而且对水文循环有极大影响
+。1996 古植物学是研究古植物化石记录的分支学科。普遍认为在地球的早期历史中，光合作用植物产生的氧气改变了古代地球的全球大气环境.2012
+
+2.1 人体营养
+几乎所有的食物都来自植物（直接或间接），例如大米
+
+2.2 生命过程的基本原理
+
+2.3 药物和原料
+
+2.4 环境改变
+
+3 生态学
+
+4 进化
+A Punnett square depicting a cross between two pea plants heterozygous for purple (B) and white (b) blossoms
+
+5 生理学
+
+6 结构
+
+7 分类学
+
+8 研究对象
+* 植物
+* 树
+* 根
+* 茎
+* 叶
+* 花
+* 果实
+* 种子
+* 草药
+* 作物
+
+
+9 植物解剖和形态
+水稻水稻植株的根，茎，叶和花的形态是19世纪的示意图
+植物解剖学是研究植物细胞和组织的结构，而植物的形态是其外部形式的研究。所有的植物是多细胞真核生物，其储存在细胞核中的DNA。
+
+10 注释
+
+11 参考文献
+
+11.1 引用
+
+11.2 来源
+* Bold, H. C. et al. 1987. Morphology of plants and fungi, 5th ed. NY: HarperCollins Publisher. 912 pp. ISBN 978-0-06-040839-8
+
+ 网络来源
+* fix-attempted=yes
+* （requires Microsoft Silverlight）
+* fix-attempted=no
+* fix-attempted=yes
+* . Note that as the ICN is not yet online, all references are to the previous Vienna Code. Preamble, para. 7
+
+ 科普
+* cite book | ref = harv | last = Attenborough | first = David | authorlink = David Attenborough | title = The Private Life of Plants | isbn = 0-563-37023-8 | publisher = British Broadcasting Corporation (TV), Edbury Publishing – BBC Books (print) | location = London |date=1995
+* date=1972
+* date=2009
+* date=2005
+ * date=2010
+* date=1996
+* date=2010
+* date=2004
+* date=2002
+* date=2009
+* date=1997
+* date=1981
+* date=1996
+* date=2002
+* cite book | ref = harv | last = Pollan | first = Michael | authorlink = Michael Pollan | title = The Botany of Desire: A Plant's-eye View of the World | isbn = 0-375-50129-0 | publisher = Public Broadcasting System (TV), Random House (print) | location = New York |date=2001
+* date=1981
+* year = 1992
+* year = 2005
+
+ 学术研究
+* date=1990
+* date=2004
+* date=2008
+* date=1902
+* date=2007
+* date=1988
+* date=1938
+* date=2000年5月
+* date=1997
+* date=2001
+* date=1889
+* date=1909
+* date=2000
+* date=2005
+* date=1973
+* date=1940
+* date=1987
+* date=1992
+* date=2003
+ * date=2008
+* date=2002
+* date=1970
+ * date=1998
+ * date=2005
+* date=2002
+* date=2009
+* date=2008
+* date=1939
+* date=2000
+* date=2003
+* date=1985
+* date=2002
+ * date=1990
+
+环境植物学
+* date=1997
+* date=2000
+* date=2007
+* date=1996
+* year = 1997
+
+ 植物生理学
+* year = 2008
+* year = 2000
+* year = 2001
+* year = 1998
+ * year = 2008
+* year = 2000
+* year = 1992
+* year = 1991
+ * year = 2002
+ * year = 2006
+ * year = 2010
+
+
+12 外部链接
+* Botany
+* Botany databases at the Hunt Institute for Botanical Documentation
+* High quality pictures of plants and information about them from Catholic University of Leuven
+* Native Plant Information Network
+* USDA plant database
+* The Virtual Library of Botany
+* 中国数字植物标本馆
+
+

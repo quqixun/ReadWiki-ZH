@@ -1,0 +1,26 @@
+Tux
+
+Tux，Linux企鹅
+Tux（一只企鹅）是Linux的标志。将企鹅作为Linux标志是由林纳斯·托瓦兹提出的。
+大多数人相信，“Tux”这个名字来源于Torvalds UniX，而不是因为它看起来像是穿着一件黑色小礼服（tuxedo）。
+这个企鹅图案在最佳Linux图标竞赛中被选中。其他一些图案可以在 Linux图标大赛网站中找到。Tux的设计者是Larry Ewing，他于1996年，利用GIMP软件设计出了这个企鹅，并在以下条例下发布：
+Permission to use and/or modify this image is granted provided you acknowledge me lewing@isc.tamu.edu and The GIMP if someone asks.
+Tux已经成为Linux和开源社群的象征。英国Linux用户组（British LUG）甚至在当地的动物园认养了几只企鹅。
+
+1 Tuz
+Tuz
+在 2.6.29 系列的Linux核心中，为支持拯救袋獾运动Tux 被临时地替换成 Tuz。
+
+2 其他版本
+Image:Crystal_128_penguin.png|Tux Crystal 第1版
+Image:TUX-G2-SVG.svg|Tux Crystal 第2版
+Image:Pax tux.png|PaX版本的Tux
+Image:Tux.svg|高质矢量的Tux
+Image:Tux-simple.svg|普通矢量的Tux
+Image:NewTux.svg|晶莹的Tux
+
+3 参见
+* Linux
+* 超级企鹅（游戏）
+
+

@@ -1,0 +1,185 @@
+音乐
+
+交响乐团演奏
+音乐，广义而言，就是指任何以声音组成的艺术。英文Music一词源于古希腊语的μουσική（mousike），意即缪斯（muse）女神的艺术。而中文的音乐二字，许慎《说文解字》解释为「音，声也。生于心，有节于外，谓之音。」认为音乐和声音的区别，在于音乐需要透过人心去想像和创造。
+音乐可分为创作、演奏、聆听三个过程，在不同文化和社会，对于音乐的过程及其重要性都有不同的理解，例如在西非鼓乐里，每个人皆是参与者，人们不会区分作曲者、演奏者和聆听者的身份；不过所有的人类文化都有音乐，也就是说，演奏音乐是所有文化当中普遍存在的现象。
+因为音乐和数学、物理相关，欧洲自古希腊时代开始即有人论述乐理。在西方乐理中，音乐的主要元素有音高（频率）、节奏和音色。音乐可以分为不同种类，但每种种类的区别常常是含糊和具争议的，而不同种类的音乐会不同程度地强调或忽略某些音乐元素。至于何谓声音，或者乐音和噪音的区别，则没有公认的标准，也因著文化与社会背景而有所不同。许多在当时代具突破性或前卫的音乐被时人批评为「非音乐」，例如贝多芬的大赋格以及早期的爵士乐等等。但近代有不少音乐家不认同传统的理解，例如二十世纪美国作曲家约翰·凯吉认为任何声音和静默皆是音乐。
+音乐可以用乐谱描述，依据乐谱演奏，但也有不少音乐类型如民歌或爵士乐是由演奏者即兴创作的。乐谱作为一种符号的语言，只能描述声音的属性或指示演奏所需的技巧，却无法记录声音本身。因此在录音技术出现之前，欣赏音乐必需现场聆听，或自己亲身参与演奏。传统上欣赏音乐有特定的场所，从古时的宫庭、教堂、庙宇到今天的音乐厅、酒吧等等。十九世纪末，留声机的发明令声音可以记录和复制，改变了欣赏音乐的模式；一般认为录音、通讯技术和大众媒体是流行音乐形成的主要因素，从早期的唱片、音乐录像及无线电，到当今的影音网站或串流平台，都是人们接触音乐的管道。
+演奏音乐需要透过歌唱或乐器。广义的乐器包括一切可以发出声音的工具，在石器时代人们已经开始制作原始的乐器。今天电脑和不少电子音乐产品可以透过MIDI制作音乐。
+音乐是一种需要学习的技能，而在不少国家的基础教育中包括有音乐课，而一些音乐学院则提供专业的音乐教育。音乐学是一个历史的科学的研究音乐的广阔领域，其中包括音乐理论和音乐史。另外自十九世纪末开始有民族音乐学，研究各地不同的音乐文化。而音乐产业也包含了许多面向：音乐的创造者（作曲家与填词人），音乐的演奏者（乐团乐手、歌手或指挥），音乐的录制者（包含音讯工程师），音乐活动的筹备者，以及音乐资源（唱片或乐谱）的贩售者。
+
+1 音乐的要素
+音乐要素的不同组合组成了每首音乐独特的性格，使人在聆听不同音乐时能了解其结构及表情，尽可能察觉是哪个民族、地区、时代与类型的音乐。每个国家对于音乐要素的官方定义不尽相同，但大致共有的要素包括：
+* 音高（旋律、和弦）
+* 节奏（速度、节拍、衔接）
+* 音色
+
+不同频率的声音在不同时间所发出，形成旋律；不同频率的声音在同一时间或在极短时段内发出，形成和弦。拍子的快慢构成速度，规律性的强拍和弱拍形成节拍，音符之间的连贯状况则谓之衔接。
+常用的音高形成音阶和调性；若要丰富音乐的织体，可以借由对位法与和声法。对位是令多条不同的旋律线同时和谐奏出，和声则探讨多个和弦的连续搭配，这两种手法某程度是相对的。
+音乐的织体主要有三种类型。单音音乐（Monophony）是最简单的音乐织体，仅有单一旋律线，只包含了旋律和节奏两项要素。如果有一条居支配地位的主旋律配以不同的和弦，便是主音音乐（Homophony）。若有两条以上彼此独立的旋律线交织，则是复音音乐（Polyphony）。
+最后，每种乐器和每个人声都有自己独特的音色，不同音色的乐器组合赋予音乐独特的音响效果、情绪，以及象征意义；安排这些乐器的组合叫做配器。
+
+2 音乐的功能
+音乐是一种符号，一种声音符号，表达人的所思所想。是人们思想的载体之一。音乐是有目的的，是有内涵的，其中隐含了作者的生活体验，思想情怀。音乐从声波上分析它介于噪声和频率不变的纯音之间，从效果上讲它可以带给人美的享受和表达人的情感。
+音乐是社会行为的一种形式，通过音乐人们可以互相交流情感和生活体验。在歌曲中这种作用表现得最为突出。
+
+3 音乐理论
+乐谱
+* 音乐学
+* 音乐他律论
+* 音乐自律论
+
+古代伟大音乐家的创作和民歌的流行基本是凭借灵感产生的，后来的学者在研究这些能流行多年的音乐，逐渐总结出理论，其后的音乐家就在这些理论的指导下进行创作。
+音乐理论证明哪些音乐能被大多数人接受，使人感到悦耳。现代并结合物理声学的研究结果，使理论不断发展完善。
+但音乐理论也有其局限性，现代音乐理论主要是在西方古典音乐的基础上发展起来的，有时也面临无法解释的现象。例如根据音乐理论，小二度音是最不和谐的和声，但中国的琵琶其中有两根弦的定音却是大二度音程；现代摇滚音乐根据音乐理论是最不和谐的噪声，却受到如此多人的欢迎。音乐理论仍然面临着还需要进一步发展完善的问题。
+
+4 音乐形式
+音乐主要有两种形式：用人声唱的声乐和用乐器奏的器乐，不论是声乐或器乐都有许多种结合的方式，如独唱、合唱、对唱，独奏、协奏，交响乐等。两者也可以混合，声乐用乐器伴奏，或在器乐交响乐中混入人声等等。
+
+4.1 声乐
+声乐是由一个或多个歌手表演的音乐形式，使用乐器伴奏与否皆可，而人声是作品的重点。含有人声但重点不在其上的乐曲一般称作器乐（如古斯塔夫·霍尔斯特的《行星组曲》中没有歌词的女声合唱）。没有乐器伴奏的的合唱曲则通常称为无伴奏合唱 (a cappella，又称阿卡贝拉)。
+对于声乐而言，相当多声乐作品（部份或全部）为模仿其他声音或纯粹内容抽象，而运用非语言音节甚或是噪音，然而一般人特别注意歌词的使用。较短小且含有歌词的声乐作品常称为歌曲。
+声乐也许是最古老的音乐形式，因为它不需要任何乐器，仅仅人声便可。在各种音乐文化中都存在著某种形式的声乐。语言和音乐目的虽不同，皆有共同的音乐因子。
+人声又因性别、音域的高低、音质等不同，分成以下几种声部：
+* 女高音（soprano）
+* 女中音（Mezzo-soprano，又作次女高音）
+* 女低音（alto/contralto）
+* 男高音（tenore/tenor）
+* 男中音（baritone）
+* 男低音（basso/bass）
+
+
+4.2 器乐
+器乐是相对于声乐而言，完全用乐器演奏而不用人声或人声处于附属地位的音乐。演奏的乐器可以包括所有种类的弦乐器、木管乐器、铜管乐器和打击乐器，有的器乐曲也应用部分人声，一般没有歌词只是作为效果，但部分作曲家有时也加入一些人声，例如贝多芬写作的《第九交响曲》中也加入合唱部分《欢乐颂》，但正确来说交响曲大部分为器乐而做，较少为了声乐而做。
+
+5 各地区音乐
+
+5.1 西方音乐
+欧洲古代音乐演奏
+西方音乐主要指欧洲的音乐，由于欧洲历史上统治阶层比较重视音乐，因此许多音乐家都得到资助和保护，发展出比较完善的音乐理论。目前西方的音乐理论在全世界的音乐界占有主导地位，欧洲音乐界发展的记谱法和作曲的程式得到世界的公认。
+* 西方音乐史
+ * 古希腊罗马时期的音乐
+ * 中世纪时期的音乐
+ * 文艺复兴时期的音乐
+ * 巴洛克音乐
+ * 古典主义音乐
+ * 浪漫音乐
+ * 现代音乐
+ * 新世纪音乐
+* 西洋乐器
+
+
+5.2 中国音乐
+宫廷乐表演
+编钟演奏
+纳西古乐演奏者
+北宋宋徽宗所绘古琴画作
+先秦时代，礼乐制度被赋予维系社会秩序的功能。在中国传统思想里，音乐与人心情感间的关系受到很大的重视，尤其儒家思想认为音乐对人性具有教化启迪的作用，这在《诗经》大序、《礼记・乐记》、《荀子・乐论篇》、《史记・乐书》等作品中均可了解。甚至十三经中的《乐经》对音乐的功能也做了更深入的说明，惜今已失传。
+中国地域广阔，民族繁多，各地的民间音乐素材非常丰富。现代中国吸收了西方音乐的理论来整理古代的文献和民间音乐，编写民族乐器的曲目，使中国音乐有了很大的发展。
+中国古代音乐家的地位不高，没有统治阶级对音乐的有效保护，所以虽然很早就发明了记谱法，但许多有名的作品没有能够流传下来，大部分流传下来的作品都是依靠民间艺人口传心授。但另一方面，古代大量士人官僚本身却精通音乐，如孔子、周瑜、阮籍、苏轼等皆是有名的琴人。
+* 中国音乐史
+ * 秦、汉以前音乐
+ * 汉、唐时期音乐
+ * 宋、元时期音乐
+ * 明、清时期音乐
+ * 中国近代音乐
+ * 中国现代音乐
+* 中国民族乐器
+
+中国音乐分类
+* 按类型
+ * 戏剧音乐
+ * 宗教音乐
+ * 宫廷音乐
+ * 民间音乐
+ * 中国民族器乐
+ * 民歌
+* 按地域
+ * 广东音乐
+ * 江南丝竹
+ * 东北秧歌
+ * 西北民歌
+ * 定县音乐
+
+
+5.3 其他地区音乐
+印度音乐演奏
+音乐是自从人类出现后就伴随着人类的进化而发展的，因此世界各地都有自己独特的音乐形式和乐器，虽然世界各地的音乐理论发育并不平衡，但音乐风格各异，都有自己的发展道路。现代音乐广泛吸收了世界各地的音乐素材，各地的音乐对世界音乐的发展都有自己的贡献。
+* 非洲音乐
+* 阿拉伯音乐
+* 印度音乐
+* 古巴音乐
+* 拉丁美洲音乐
+
+
+6 欧洲的音乐
+流行音乐 (不同):
+* Dua Lipa, Little Mix, Coldplay, One Direction, Ellie Goulding, Tinie Tempah, Dizzee Rascal, Skepta, Charli XCX, Calvin Harris, Jax Jones (United Kingdom)
+* Felix Jaehn, Nena, Kay One, Alex C, Alle Farben, Eko Fresh, Bausa, Dagi Bee, Capital Bra, Robin Schulz, Bushido, Namika, Scooter, Rammstein, Zedd, 187 Strassenbande, Bonez MC, Gzuz (Germany)
+* Cleo, Doda, Sitek, Natalia Nykiel, Ewelina Lisowska, Sokół, Tede, Donguralesko, Margaret, Donatan, Gromee, Sławomir, Zespol Akcent, Taconafide, C-BooL (Poland)
+* Timati, Feduk, T.A.T.u., Max Korzh, Gamora, Oxxxymiron, Serebro, Gorky Park, Filatov & Karas, Vremya i Steklo, Allj, Algie & Kravtsov (Russia)
+* Álvaro Soler, Enrique Iglesias, Rels B (Spain)
+* Black M, Willy William, Stromae, Maître Gims, Indila, Kendji Girac, Daft Punk, Imany, David Guetta, Soprano, Martin Solveig (France)
+* Andrea Bocelli, Gigi D'Agostino, Ghali, Francesco Gabbani, J-AX, Alex Gaudino, Fedez, Guè Pequeno, Benny Benassi, Marracash, Sfera Ebbasta, Tacabro (Italy)
+* Inna, Alexandra Stan, Elena, Dan Balan, G Girls, Akcent, Sandu Ciorba, Morandi (Romania)
+* Ektor, Rest, Krystof, Slza, Atmo Music, Helena Vondrackova (Czech Republic)
+* Kontrafakt, Celeste Buckingham, Rytmus, Majk Spirit (Slovakia)
+* Ruslana, Jamala, Pianoboy, Alekseev, Monatik, VovaZIL'Vova, TNMK, Seryoga, Yarmak (Ukraine)
+* ABBA, Zara Larsson, Swedish House Mafia, Danny Saucedo, Basshunter, Loreen, Galantis, Cherrie, Thrife, DJ Black Moose, Lykke Li (Sweden)
+* Kygo, Alan Walker, Sigrid, Marcus & Martinus, Madcon, Jesper Jenset (Norway)
+* The Rasmus, Alma, Nightwish, Lordi (Finland)
+* Tiësto, Afrojack, Hardwell, Martin Garrix, Armin van Buuren, Nicky Romero, Sbmg, Boef, Laidback Luke, Oliver Heldens, Natalie La Rose (Netherlands)
+
+
+7 二十世纪中期以后的流行音乐
+现代流行音乐中的摇滚乐演奏
+二十世纪中期以后发展起来的流行音乐违背了古典音乐的理论，吸收了世界各地的地方音乐成分，强调了群众参与，听众再也不是静静地聆听音乐的旁听者，而是热烈的参与者。音乐回归到原始的载歌载舞的形式，更能调动人们的情绪，因此受到年轻人的热烈欢迎，打破地域、民族、国界的限制，在全世界广泛流行。
+* 节奏蓝调（Rhythm and blues）
+* 电子音乐（Electronic Music），常被称为Electronica或EDM（Electronic Dance Music）、或是错误的泛称为铁克诺（Techno）
+* 嬉蹦音乐或嘻哈（Hip-Hop）
+* 新世纪音乐或新纪元音乐（New Age music）
+* 摇滚乐（Rock & roll）
+* 爵士乐（Jazz）
+
+
+8 媒体和技术
+作曲家创作的音乐可以通过几种媒体传播；最传统的是现场体验，作为观众或者演奏者之一。现场音乐也可以通过无线电、电视或者因特网广播。有些音乐风格注重为表演而发音，有些则注重产生录音然后用于后期混响合成，它们从不被“直播”。现场表演风格的音乐在录制时也经常采用编辑和分离的功能以产生听起来比实际演出“更好”的效果。
+音乐录制间
+由于引入了保护演奏者，作曲家，发行商和制作人的法律，譬如美国的1992年家庭录制法案（Home Recording Act），以及英国1979年修订的用于保护文学和艺术作品的Berne规范，录音和现场演出也变得更易通过计算机，设备，和因特网用一种通常称为音乐随选（music-on-demand）的形式获得。
+在很多文化中，有些音乐的表演和聆听没有很大的区别，因为现场每个人都以集体形式通过某种方式涉及到音乐活动中来。在工业化的国家，通过录制形式，譬如听音乐录音或是观看音乐录像，成了最为普遍的感受现场演出的形式，这种形式大致开始于20世纪中叶。
+有时，现场演出采用了预先录制的声音。例如，DJ可以使用唱片来制造刮碟效果，而有些20世纪的作品用独唱或独奏表演和预制的磁带音乐同时进行。计算机和或多键盘乐器可以用来编程产生和播放MIDI音乐。听众也可以通过卡拉OK成为演出者，这种形式为日本人创造，它采用录像和无声乐的音轨，这样演出者就可以将他们自己的声音加上去。
+匈牙利的音乐学校
+
+9 音乐教育
+音乐是初等教育的一个重要组成部分，是培养孩子们艺术素养的有效工具，在世界各地一般从幼儿园音乐教育都已经开始了。古代中国将音乐视为士大夫应具备的六艺才能之一，至于现今中国正规音乐教育持续到九年义务教育结束，即初中毕业。普通高中一般也开设音乐课。
+作为专业音乐人员一般要经过专门的高等音乐教育，不过在目前从事通俗歌曲和流行音乐的专业人员，大部分都没有经过音乐专门的高等教育，都是依靠本身的才能和自我学习。
+
+10 参考资料
+* Harwood, Dane (1976). "Universals in Music: A Perspective from Cognitive Psychology", Ethnomusicology 20, no. 3:521-33.
+* Johnson, Julian (2002). Who Needs Classical Music?: Cultural Choice and Musical Value. Oxford University Press. ISBN 0-19-514681-6.
+* Kertz-Welzel, Alexandra. "Piano Improvisation Develops Musicianship." Orff-Echo XXXVII No. 1(2004):11-14.
+* Kertz-Welzel, Alexandra. "The Singing Muse: Three Centuries of Music Education in Germany." Journal of Historical Research in Music Education XXVI no. 1(2004):8-27.
+* Kertz-Welzel, Alexandra. "Didaktik of Music: A German Concept and its Comparison to American Music Pedagogy." International Journal of Music Education(Practice)22 No. 3(2004):277-286.
+* Kertz-Welzel, Alexandra. "General Music Education in Germany Today: A Look at How Popular Music is Engaging Students." General Music Today 18 no. 2(Winter 2005):14-16.
+* Lee Yuan-Yuan(1979),An Amazing Discovery in Chinese Music, Chinese Music ISSN 0192-3749, 2, 16.
+* Lee Yuan-Yuan(1979),Follow-up on "An Amazing Discovery in Chinese Music", Chinese Music ISSN 0192-3749, 2, 39.
+* Lee Yuan-Yuan(1980),The Music of the Zenghou Zhong, Chinese Music ISSN 0192-3749, 3, 3.
+* Lee, Yuan-Yuan and Sinyan Shen(1999), Chinese Musical Instruments(Chinese Music Monograph Series), Chinese Music Society of North America Press, Chicago. ISBN 1-880464-03-9.
+* Molino, Jean (1975). "Fait musical et sémiologue de la musique", Musique en Jeu, no. 17:37-62.
+* Nattiez, Jean-Jacques (1987). Music and Discourse: Toward a Semiology of Music (Musicologie générale et sémiologue, 1987). Translated by Carolyn Abbate (1990). ISBN 0-691-02714-5.
+* Owen, Harold (2000). Music Theory Resource Book. Oxford University Press. ISBN 0-19-511539-2.
+* Shen, Sinyan(1987),Acoustics of Ancient Chinese Bells, Scientific American, 256, 94.
+* Shen, Sinyan(1990),The Acoustics of Wind Instruments – A Study in Resonator Design and Performance of Guanyue, Chinese Music ISSN 0192-3749, 13/4, 71.
+* Woodall, Laura and Brenda Ziembroski, (2002).  Promoting Literacy Through Music.
+* The current status and information of music education in Taiwan  Heart Music
+
+
+11 参看
+* 乐器
+* 音乐家列表
+* 音乐术语列表
+* 音乐形式列表
+* 音乐类型列表
+* 管弦乐团列表
+
+
