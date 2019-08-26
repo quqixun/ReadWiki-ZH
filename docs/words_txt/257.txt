@@ -1,0 +1,39 @@
+计算数学
+计算数学是数学的一个分支，研究的内容包括设计和分析算法以及数学建模等，目的是为了在实际工程中利用快速稳定的算法得到精确值的近似值。在计算机科学高度发展的今天，其基础计算理论的发展使计算数学进入现代化阶段。
+
+1 计算数学的几个主要方面
+* 逼近论与函数逼近
+* 非线性方程求解
+* 矩阵及特征值理论
+* 最优化及其算法
+* 微分方程及其数值解
+* 建立在上面基础之上的数学建模及其应用
+
+
+2 参见
+* 计算科学家
+* 信息与计算科学
+
+
+3 参考文献
+
+4 延伸阅读
+* isbn=978-0-444-51247-5
+* isbn=978-0-387-94746-4
+* dead-url=yes
+* isbn=978-0-470-20260-9
+* isbn=978-0-387-00450-1
+* R. E. White (2003), Computational Mathematics: Models, Methods, and Analysis with MATLAB, Chapman and Hall.  ISBN 978-1-58488-364-7
+* X. S. Yang (2008), Introduction to Computational Mathematics, World Scientific, (2008). ISBN  978-9812818171
+* G. Strang (2007), Computational Science and Engineering, Wiley. ISBN  978-0961408817
+
+
+5 外部链接
+* Princeton Program in Applied and Computational Mathematics
+* Applied and Computational Mathematics, Caltech
+* Center for Computational Mathematics, University of Colorado Denver
+* Scientific Computing and Computational Mathematics Program, Stanford University
+* Institute for Computational Science and Engineering, The University of Texas at Austin
+* Foundations of Computational Mathematics非利润组织
+
+

@@ -43,7 +43,8 @@ class WIKIParse(object):
     def __clean(self, s):
 
         s = re.sub(r':*{\|[\s\S]*?\|}', '', s)
-        s = re.sub(r'<gallery>[\s\S]*?</gallery>', '', s)
+        s = re.sub(r'\[\[File:.*\]\]', '', s)
+        s = re.sub(r'<gallery[\s\S]*?</gallery>', '', s)
         s = re.sub(r'(.){{([^{}\n]*?\|[^{}\n]*?)}}',
                    '\\1[[\\2]]', s)
         s = filter_wiki(s)
@@ -132,8 +133,6 @@ class WIKIParse(object):
         if self.__is_not_word(word) or \
            self.__is_redirect(text):
             return None, None
-
-        print(text)
 
         text = self.__clean(text)
         word = self.opencc.convert(word)

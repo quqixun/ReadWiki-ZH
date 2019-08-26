@@ -58,7 +58,8 @@ class WIKIParse2Doc(WIKIParse):
                     'Articls parsed: {}'.format(n_iter)
                 )
 
-            if n_iter == 1:
+            # ONLY FOR TESTING
+            if n_iter == 200:
                 break
 
         return
