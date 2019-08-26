@@ -1,8 +1,6 @@
-import os
 import re
 import bz2file
 
-from tqdm import tqdm
 from opencc import OpenCC
 from gensim.corpora.wikicorpus import (
     extract_pages, filter_wiki
@@ -11,15 +9,13 @@ from gensim.corpora.wikicorpus import (
 
 class WIKIParse(object):
 
-    def __init__(
-        self, input_file, output_dir,
-        save_as='txt'
-    ):
+    KEYWORDS = [
+        'Template', 'Category', 'Wikipedia',
+        'File', 'Topic', 'Portal',
+        'MediaWiki', '模块', 'Draft', 'Help'
+    ]
 
-        assert save_as in ['txt', 'md'], \
-            'outputs can only be saved as txt or md'
-        self.save_as = save_as
-        self.nl = '\n\n' if save_as == 'md' else '\n'
+    def __init__(self, input_file, as_md=False):
 
         try:
             bz2_file = bz2file.open(input_file)
@@ -27,18 +23,19 @@ class WIKIParse(object):
         except Exception as e:
             raise RuntimeError(e)
 
-        try:
-            if not os.path.isdir(output_dir):
-                os.makedirs(output_dir)
-        except Exception as e:
-            raise ValueError(e)
-        self.output_dir = output_dir
-
+        self.as_md = as_md
         self.opencc = OpenCC('t2s')
+        self.nl = '\n\n' if as_md else '\n'
         return
 
     def __is_not_word(self, word):
-        return re.findall(r'^[a-zA-Z]+:', word)
+
+        word_items = word.split(':')
+        if len(word_items) > 1 and \
+                word_items[0] in self.KEYWORDS:
+            return True
+
+        return False
 
     def __is_redirect(self, text):
         return re.findall(r'^#', text)
@@ -75,10 +72,10 @@ class WIKIParse(object):
                 title = title[:-1]
             return title
 
-        def form_line(catalog , title, level):
+        def form_line(catalog, title, level):
             line = catalog + ' ' + title if catalog \
-                   else title + self.nl
-            if self.save_as == 'md':
+                else title + self.nl
+            if self.as_md:
                 line = '#' * level + ' ' + line
             return line
 
@@ -112,7 +109,7 @@ class WIKIParse(object):
                 item_line = True
                 prev_item_line = True
             elif line.startswith('*') or \
-                 line.startswith('#'):
+                    line.startswith('#'):
                 line = '* ' + line[1:].strip()
                 item_line = True
                 prev_item_line = True
@@ -128,7 +125,7 @@ class WIKIParse(object):
 
         return fresh_text
 
-    def __parse(self, content):
+    def parse(self, content):
 
         word, text, ID = content
 
@@ -136,50 +133,11 @@ class WIKIParse(object):
            self.__is_redirect(text):
             return None, None
 
+        print(text)
+
         text = self.__clean(text)
         word = self.opencc.convert(word)
         text = self.opencc.convert(text)
         text = self.__fresh(word, text)
 
         return ID, text
-
-    def __to_file(self, ID, text):
-
-        text_file = \
-            ID + '.md' if self.save_as == 'md' \
-            else ID + '.txt'
-
-        text_output_path = os.path.join(
-            self.output_dir, text_file
-        )
-        with open(text_output_path, 'w',
-                  encoding='utf-8') as file:
-            file.write(text)
-
-        return
-
-    def run(self):
-
-        n_iter = 0
-        iter_wiki_content = tqdm(
-            self.wiki_content,
-            desc='Articls parsed: 0'
-        )
-
-        for content in iter_wiki_content:
-            ID, text = self.__parse(content)
-            if ID is None:
-                continue
-
-            self.__to_file(ID, text)
-
-            n_iter += 1
-            if n_iter % 1000 == 0:
-                iter_wiki_content.set_description(
-                    'Articls parsed: {}'.format(n_iter)
-                )
-
-            if n_iter == 200:
-                break
-
-        return
