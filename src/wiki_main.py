@@ -6,7 +6,7 @@ from wiki_download import WIKIDownload
 # STEP 1 : DOWNLOAD WIKI DUMP
 # =====================================
 
-# DENPENDICY: wget
+# DENPENDENCY: wget
 
 archive = '20190801'
 output_dir = '../data'
