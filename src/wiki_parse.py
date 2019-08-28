@@ -67,10 +67,7 @@ class WIKIParse(object):
                 return ''
 
             title = match.group(1)
-            if title[0] == ' ':
-                title = title[1:]
-            if title[-1] == ' ':
-                title = title[:-1]
+            title = title.strip()
             return title
 
         def form_line(catalog, title, level):
