@@ -23,7 +23,7 @@ class WIKIParse2Doc(WIKIParse):
 
         return
 
-    def __to_file(self, ID, text):
+    def __to_doc(self, ID, text):
 
         text_file = ID + '.md' if self.as_md \
             else ID + '.txt'
@@ -50,10 +50,10 @@ class WIKIParse2Doc(WIKIParse):
             if ID is None:
                 continue
 
-            self.__to_file(ID, text)
+            self.__to_doc(ID, text)
 
             n_iter += 1
-            if n_iter % 1000 == 0:
+            if n_iter % 200 == 0:
                 iter_wiki_content.set_description(
                     'Articls parsed: {}'.format(n_iter)
                 )

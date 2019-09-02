@@ -42,11 +42,19 @@ class WIKIParse(object):
 
     def __clean(self, s):
 
+        def clean_synonym(s):
+
+            t1 = r'-{(.*?)}-'
+            print(re.findall(t1, s))
+
+            return
+
         s = re.sub(r':*{\|[\s\S]*?\|}', '', s)
         s = re.sub(r'\[\[File:.*\]\]', '', s)
         s = re.sub(r'<gallery[\s\S]*?</gallery>', '', s)
         s = re.sub(r'(.){{([^{}\n]*?\|[^{}\n]*?)}}',
                    '\\1[[\\2]]', s)
+        # clean_synonym(s)
         s = filter_wiki(s)
         s = re.sub(r'\* *\n|\'{2,}', '', s)
         s = re.sub('\n+', '\n', s)
