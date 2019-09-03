@@ -23,7 +23,7 @@ MINIX是一个轻量小型并采用微内核(Micro-Kernel)架构的类Unix作业
 林纳斯·托瓦兹开始在MINIX上开发Linux内核，为MINIX写的软体也可以在Linux内核上使用。后来使用GNU软体代替MINIX的软体，因为使用从GNU系统来的原始码可以自由使用，这对Linux的发展有益。使用GNU GPL协议的原始码可以被其他项目所使用，只要这些项目使用同样的协议发布。为了让Linux可以在商业上使用，林纳斯·托瓦兹决定更改他原来的协议（这个协议会限制商业使用），以GNU GPL协议来代替。之后许多开发者致力融合GNU元素到Linux中，做出一个有完整功能的、自由的作业系统。
 
 2.3 命名
-Linux的第一个版本在1991年9月被大学FTP server管理员-{Ari Lemmke}-发布在Internet上，最初Torvalds称这个核心的名称为"Freax"，意思是自由（"free"）和奇异（"freak"）的结合字，并且附上"X"这个常用的字母，以配合所谓的类Unix的系统。但是FTP伺服器管理员嫌原来的命名「Freax」的名称不好听，把核心的称呼改成「Linux」，当时仅有10000行程式码，仍必须执行于Minix作业系统之上，并且必须使用硬碟开机；随后在10月份第二个版本（0.02版）发布，同时这位芬兰赫尔辛基的大学生在comp.os.minix上发布一则讯息
+Linux的第一个版本在1991年9月被大学FTP server管理员AriLemmke发布在Internet上，最初Torvalds称这个核心的名称为"Freax"，意思是自由（"free"）和奇异（"freak"）的结合字，并且附上"X"这个常用的字母，以配合所谓的类Unix的系统。但是FTP伺服器管理员嫌原来的命名「Freax」的名称不好听，把核心的称呼改成「Linux」，当时仅有10000行程式码，仍必须执行于Minix作业系统之上，并且必须使用硬碟开机；随后在10月份第二个版本（0.02版）发布，同时这位芬兰赫尔辛基的大学生在comp.os.minix上发布一则讯息
 Hello everybody out there using minix-
 I'm doing a (free) operation system (just a hobby,
 won't be big and professional like gnu) for 386(486) AT clones.

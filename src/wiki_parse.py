@@ -106,22 +106,27 @@ class WIKIParse(object):
         fresh_text = form_line('', word, 1)
 
         prev_item_line = False
-        c1, c2, c3 = '0', '0', '0'
+        c1, c2, c3, c4 = '0', '0', '0', '0'
         for line in text.split('\n'):
             item_line = False
 
-            if line.startswith('===='):
-                c3 = update(c3)
+            if line.startswith('====='):
+                c4 = update(c4)
+                catalog = '.'.join([c1, c2, c3, c4])
+                title = get_title(line, '=====')
+                line = form_line(catalog, title, 5)
+            elif line.startswith('===='):
+                c3, c4 = update(c3), '0'
                 catalog = '.'.join([c1, c2, c3])
                 title = get_title(line, '====')
                 line = form_line(catalog, title, 4)
             elif line.startswith('==='):
-                c2, c3 = update(c2), '0'
+                c2, c3, c4 = update(c2), '0', '0'
                 catalog = '.'.join([c1, c2])
                 title = get_title(line, '===')
                 line = form_line(catalog, title, 3)
             elif line.startswith('=='):
-                c1, c2, c3 = update(c1), '0', '0'
+                c1, c2, c3, c4 = update(c1), '0', '0', '0'
                 title = get_title(line, '==')
                 line = form_line(c1, title, 2)
             elif line.startswith('***'):
