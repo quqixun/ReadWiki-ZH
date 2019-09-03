@@ -40,21 +40,39 @@ class WIKIParse(object):
     def __is_redirect(self, text):
         return re.findall(r'^#', text)
 
+    def __clean_synonym(self, s):
+
+        t1 = r'-{(.*?)}-'
+        t2 = r'.*zh-(hans|cn):(.*?)(;|}-|;zh).*'
+
+        while True:
+            match1 = re.search(t1, s, re.DOTALL)
+            if match1 is None:
+                break
+
+            start, end = match1.span()
+            sub_s = s[start:end].replace(' ', '')
+            match2 = re.match(t2, sub_s, re.DOTALL)
+
+            if match2 is not None:
+                sub_s = match2.group(1)
+            else:
+                sub_s = sub_s[2:-2]
+                if 'zh-hans' in sub_s or 'zh-cn' in sub_s:
+                    sub_s = ''
+
+            s = s[:start] + sub_s + s[end:]
+
+        return s
+
     def __clean(self, s):
 
-        def clean_synonym(s):
-
-            t1 = r'-{(.*?)}-'
-            print(re.findall(t1, s))
-
-            return
-
+        s = self.__clean_synonym(s)
         s = re.sub(r':*{\|[\s\S]*?\|}', '', s)
         s = re.sub(r'\[\[File:.*\]\]', '', s)
         s = re.sub(r'<gallery[\s\S]*?</gallery>', '', s)
         s = re.sub(r'(.){{([^{}\n]*?\|[^{}\n]*?)}}',
                    '\\1[[\\2]]', s)
-        # clean_synonym(s)
         s = filter_wiki(s)
         s = re.sub(r'\* *\n|\'{2,}', '', s)
         s = re.sub('\n+', '\n', s)

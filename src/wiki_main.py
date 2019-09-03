@@ -27,5 +27,5 @@ from wiki_parse2doc import WIKIParse2Doc
 
 xml_path = '../dump/zhwiki-20190820-pages-articles-multistream.xml.bz2'
 
-# WIKIParse2Doc(xml_path, '../docs/words_txt').run()
+WIKIParse2Doc(xml_path, '../docs/words_txt').run()
 WIKIParse2Doc(xml_path, '../docs/words_md', as_md=True).run()
