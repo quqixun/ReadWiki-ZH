@@ -4,8 +4,8 @@
 本索引包含两个部分：
 第一个部分中所有国家（或地区）将按照英文字母排序，并将提供中文简称、全称以及英文简称，绿色的为加入联合国的主权国家，有争议的未被普遍承认的国家被单独标识（红色）。
 第二个部分中所有国家（或地区）将按照大洲排序，仅提供中文简称的信息。
-其他参照索引：人口排列、面积排列、人口密度排列、国内生产总值或参考目录。
-。
+其他参照索引：人口排列、面积排列、人口密度排列、国内生产总值或参考目录。。
+
 其中不包括以下地区：
 南极洲（受《南极条约》约束）
 梵蒂冈（圣座是联合国观察员国）
@@ -17,10 +17,10 @@
 根据以上标准，本表收录了208个政治实体：
 * 195个为联合国系统：
  * 其中193国为联合国会员国。
- * 其中2国为联合国观察员国：圣座（梵蒂冈，Vatican City）、巴勒斯坦（Palestine）（后者为未获国际普遍承认的实体，存在领土及主权争端）。
+ * 其中2国为联合国观察员国：（，Vatican City）、（Palestine）（后者为未获国际普遍承认的实体，存在领土及主权争端）。
 * 13个为非联合国系统：
- * 其中11个是未获国际普遍承认的实体，存在主权争端。具体包括（英文字母排序）：阿布哈兹（Abkhazia）、南奥塞梯（South Ossetia）、阿尔扎赫（Artsakh）、科索沃（Kosovo）、北塞浦路斯（Turkish Republic of Northern Cyprus）、索马里兰（Somaliland）、阿拉伯撒哈拉民主共和国（Western Sahara）、（Taiwan，Republic of China）、德涅斯特河沿岸（Transnistria）、卢甘斯克人民共和国（Lugansk People's Republic）、顿涅茨克人民共和国（Donetsk People's Republic）。
- * 其中2个是未获国际普遍承认的实体，不存在主权争端。具体包括（英文字母排序）：库克群岛（Cook Islands）、纽埃（Niue）。
+ * 其中11个是未获国际普遍承认的实体，存在主权争端。具体包括（英文字母排序）：（Abkhazia）、（South Ossetia）、（Artsakh）、（Kosovo）、（Turkish Republic of Northern Cyprus）、（Somaliland）、（Western Sahara）、（Taiwan，Republic of China）、（Transnistria）、（Lugansk People's Republic）、（Donetsk People's Republic）。
+ * 其中2个是未获国际普遍承认的实体，不存在主权争端。具体包括（英文字母排序）：（Cook Islands）、（Niue）。
 
 
 2 按英文字母排序的列表

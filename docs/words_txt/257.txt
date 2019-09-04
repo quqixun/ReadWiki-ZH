@@ -18,11 +18,6 @@
 3 参考文献
 
 4 延伸阅读
-* isbn=978-0-444-51247-5
-* isbn=978-0-387-94746-4
-* dead-url=yes
-* isbn=978-0-470-20260-9
-* isbn=978-0-387-00450-1
 * R. E. White (2003), Computational Mathematics: Models, Methods, and Analysis with MATLAB, Chapman and Hall.  ISBN 978-1-58488-364-7
 * X. S. Yang (2008), Introduction to Computational Mathematics, World Scientific, (2008). ISBN  978-9812818171
 * G. Strang (2007), Computational Science and Engineering, Wiley. ISBN  978-0961408817

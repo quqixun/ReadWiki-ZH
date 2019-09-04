@@ -1,11 +1,11 @@
 计算机科学
 
 计算机科学用于解决信息与计算的理论基础，以及实现和应用它们的实用技术。
-计算机科学（computer science，有时缩写为CS）是系统性研究信息与计算的理论基础以及它们在计算机系统中如何implementation与应用的实用技术的学科。 它通常被形容为对那些创造、描述以及转换信息的算法处理的系统研究。计算机科学包含很多分支领域；有些强调特定结果的计算，比如计算机图形学；而有些是探讨计算问题的性质，比如计算复杂性理论；还有一些领域专注于怎样实现计算，比如程式语言理论是研究描述计算的方法，而程式设计是应用特定的程式语言解决特定的计算问题，人机交互则是专注于怎样使计算机和计算变得有用、好用，以及随时随地为人所用。
+计算机科学（computer science，有时缩写为CS）是系统性研究信息与计算的理论基础以及它们在计算机系统中如何与应用的实用技术的学科。 它通常被形容为对那些创造、描述以及转换信息的算法处理的系统研究。计算机科学包含很多分支领域；有些强调特定结果的计算，比如计算机图形学；而有些是探讨计算问题的性质，比如计算复杂性理论；还有一些领域专注于怎样实现计算，比如程式语言理论是研究描述计算的方法，而程式设计是应用特定的程式语言解决特定的计算问题，人机交互则是专注于怎样使计算机和计算变得有用、好用，以及随时随地为人所用。
 有时公众会误以为计算机科学就是解决计算机问题的事业（比如信息技术），或者只是与使用计算机的经验有关，如玩游戏、上网或者文字处理。其实计算机科学所关注的，不仅仅是去理解实现类似游戏、浏览器这些软件的程序的性质，更要通过现有的知识创造新的程序或者改进已有的程序。
 尽管计算机科学（computer science）的名字里包含计算机这几个字，但实际上计算机科学相当数量的领域都不涉及计算机本身的研究。因此，一些新的名字被提议出来。某些重点大学的院系倾向于术语计算科学（computing science），以精确强调两者之间的不同。丹麦科学家Peter Naur建议使用术语"datalogy"，以反映这一事实，即科学学科是围绕着数据和数据处理，而不一定要涉及计算机。第一个使用这个术语的科学机构是哥本哈根大学Datalogy学院，该学院成立于1969年，Peter Naur便是第一任教授。这个术语主要被用于北欧国家。同时，在计算技术发展初期，《ACM通讯》建议了一些针对计算领域从业人员的术语：turingineer，turologist，flow-charts-man，applied meta-mathematician及applied epistemologist。 三个月后在同样的期刊上，comptologist被提出，第二年又变成了hypologist。 术语computics也曾经被提议过。在欧洲大陆，起源于信息（information）和数学或者自动（automatic）的名字比起源于计算机或者计算（computation）更常见，如informatique（法语），Informatik（德语），informatika（斯拉夫语族）。
 著名计算机科学家艾兹赫尔·戴克斯特拉曾经指出：“计算机科学并不只是关于计算机，就像天文学并不只是关于望远镜一样。”（"Computer science is no more about computers than astronomy is about telescopes."）设计、部署计算机和计算机系统通常被认为是非计算机科学学科的领域。例如，研究计算机硬件被看作是计算机工程的一部分，而对于商业计算机系统的研究和部署被称为信息技术或者信息系统。然而，现如今也越来越多地融合了各类计算机相关学科的思想。计算机科学研究也经常与其它学科交叉，比如数学、工程学、认知科学和经济学等。
-计算机科学被认为比其它科学学科与数学的联系更加密切，一些观察者说计算就是一门数学科学。 早期计算机科学受数学研究成果的影响很大，如库尔特·哥德尔、艾伦·图灵、Rózsa Péter，阿隆佐·邱奇等数学家的研究，这两个领域在某些学科，例如数理逻辑、范畴论、域理论和代数，也不断有有益的思想交流。
+计算机科学被认为比其它科学学科与数学的联系更加密切，一些观察者说计算就是一门数学科学。 早期计算机科学受数学研究成果的影响很大，如库尔特·哥德尔、艾伦·图灵、，阿隆佐·邱奇等数学家的研究，这两个领域在某些学科，例如数理逻辑、范畴论、域理论和代数，也不断有有益的思想交流。
 
 1 历史
 早期计算机科学建立的基础得追溯到最近电子计算机的发明。那些计算固定数值任务的机器，比如算盘，自古希腊时期即已存在。Wilhelm Schickard在1623年设计了世界上第一台机械计算器，但没有完成它的建造。布莱兹·帕斯卡在1642年设计并且建造了世界上第一台可以工作的机械计算器Pascaline。埃达·洛夫莱斯协助查尔斯·巴贝奇在维多利亚时代设计了差分机。1900年左右，打孔机问世。然而以上这些机器都局限在只能完成单个任务，或者充其量是所有可能任务的子集。
@@ -16,14 +16,14 @@
 1.1 主要成就
 虽然计算机科学被认定为正式学术学科的历史很短暂，但仍对科学和社会作出了很多基础贡献。包括：
 * “数位革命”的开端：信息时代与互联网。
-* 对于计算和可计算理论的正式定义，证明了存在计算上不可解及难解型问题。
+* 对于计算和可计算理论的正式定义，证明了存在计算上及难解型问题。
 * 提出程式语言的概念，作为一种使用不同的抽象层次来精确表达处理程序的工具。
 * 在密码学领域，恩尼格玛密码机的破译被视为盟军在二战取得胜利的重要因素。
 * 科学计算实现了高复杂度处理的实用价值，以及完全使用软件进行实验。同时也实现了对人类思想的深入研究，使得人类基因组计划绘制人类基因成为可能。还有探索蛋白质折叠的分布式计算项目Folding@home。
 * 算法交易增长了金融市场的经济效益与市场流通性，通过人工智能，机器学习及大规模的统计和数值技术。
-* 电脑成像广泛用于娱乐，包括电视、电影、广告、动画、电子游戏等。date=October 2010
-* 自然语言处理，包括语音到文字（speech-to-text）转换、语言间的自动翻译date=October 2010
-* 对各种过程的模拟，包括计算流体力学、物理、电气、电子系统和电路，以及同人类居住地联系在一起的社会和社会形态（尤其是战争游戏，war games）。现代计算机能够对这些设计进行优化，如飞机设计。尤其在电气与电子电路设计中，SPICE软件对新的物理实现（或修改）设计具有很大帮助。它包含了针对集成电路的基本设计软件。date=October 2010
+* 电脑成像广泛用于娱乐，包括电视、电影、广告、动画、电子游戏等。
+* 自然语言处理，包括语音到文字（speech-to-text）转换、语言间的自动翻译
+* 对各种过程的模拟，包括计算流体力学、物理、电气、电子系统和电路，以及同人类居住地联系在一起的社会和社会形态（尤其是战争游戏，war games）。现代计算机能够对这些设计进行优化，如飞机设计。尤其在电气与电子电路设计中，SPICE软件对新的物理实现（或修改）设计具有很大帮助。它包含了针对集成电路的基本设计软件。
 
 
 2 哲学
@@ -34,7 +34,7 @@
 
 
 3 计算机科学的领域
-作为一个学科，计算机科学涵盖了从算法的理论研究和计算的极限，到如何通过硬件和软件实现计算系统。 CSAB（以前被叫做Computing Sciences Accreditation Board），由Association for Computing Machinery（ACM）和IEEE Computer Society（IEEE-CS）的代表组成，确立了计算机科学学科的4个主要领域：计算理论，算法与数据结构，编程方法与编程语言，以及计算机组成与架构。CSAB还确立了其它一些重要领域，如软件工程，人工智能，计算机网络与通信，数据库系统，并行计算，分布式计算，人机交互，计算机图形学，操作系统，以及数值和符号计算。
+作为一个学科，计算机科学涵盖了从算法的理论研究和计算的极限，到如何通过硬件和软件实现计算系统。 CSAB（以前被叫做Computing Sciences Accreditation Board），由Association for Computing Machinery（ACM）和（IEEE-CS）的代表组成，确立了计算机科学学科的4个主要领域：计算理论，算法与数据结构，编程方法与编程语言，以及计算机组成与架构。CSAB还确立了其它一些重要领域，如软件工程，人工智能，计算机网络与通信，数据库系统，并行计算，分布式计算，人机交互，计算机图形学，操作系统，以及数值和符号计算。
 
 3.1 理论电脑科学
 广义的理论电脑科学包括经典的计算理论和其它专注于更抽象、逻辑与数学方面的计算。
@@ -44,7 +44,7 @@
 
 3.1.2 计算理论
 按照Peter J. Denning的说法，计算机科学的最根本问题是“什么能够被有效地自动化？”计算理论的研究就是专注于回答这个根本问题，关于什么能够被计算，去实施这些计算又需要用到多少资源。为了试图回答第一个问题，递归论检验在多种理论计算模型中哪个计算问题是可解的。而计算复杂性理论则被用于回答第二个问题，研究解决一个不同目的的计算问题的时间与空间消耗。
-著名的“P=NP?”问题，千禧年大奖难题之一，是计算理论的一个open problem。
+著名的“P=NP?”问题，千禧年大奖难题之一，是计算理论的一个。
 
 3.1.3 信息论与编码理论
 信息论与信息量化相关，由克劳德·香农创建，用于寻找信号处理操作的根本极限，比如压缩数据和可靠的数据存储与通讯。编码理论是对编码以及它们适用的特定应用性质的研究。编码（code）被用于数据压缩，密码学，前向纠错，近期也被用于网络编码。研究编码的目的在于设计更高效、可靠的数据传输方法。
@@ -127,15 +127,11 @@
 
 8 延伸阅读
  概述
-* date=2004
  * "Within more than 70 chapters, every one new or significantly revised, one can find any kind of information and references about computer science one can imagine. ... all in all, there is absolute nothing about Computer Science that can not be found in the 2.5 kilogram-encyclopaedia with its 110 survey articles ...." (Christoph Meinel, Zentralblatt MATH)
-* year=1994
  * "... this set is the most unique and possibly the most useful to the theoretical computer science community, in support both of teaching and research .... The books can be used by anyone wanting simply to gain an understanding of one of these areas, or by someone desiring to be in research in a topic, or by instructors wishing to find timely information on a subject they are teaching outside their major areas of expertise." (Rocky Ross, SIGACT News)
-* year =2000
  * "Since 1976, this has been the definitive reference work on computer, computing, and computer science. ... Alphabetically arranged and classified into broad subject areas, the entries cover hardware, computer systems, information and data, software, the mathematics of computing, theory of computation, methodologies, applications, and computing milieu. The editors have done a commendable job of blending historical perspective and practical reference information. The encyclopedia remains essential for most public and academic library reference collections." (Joe Accardin, Northeastern Illinois Univ., Chicago)
 
  论文选集
-* cite book |first=Donald E. |last=Knuth |authorlink=Donald Knuth|title=Selected Papers on Computer Science |publisher=CSLI Publications, Cambridge University Press |year = 1996
  * "Covering a period from 1966 to 1993, its interest lies not only in the content of each of these papers — still timely today — but also in their being put together so that ideas expressed at different times complement each other nicely." (N. Bernard, Zentralblatt MATH)
 
  文章
@@ -150,7 +146,6 @@
 
 
 9 外部链接
-* Computers/Computer_Science/
 * Scholarly Societies in Computer Science
 * Best Papers Awards in Computer Science since 1996
 * Photographs of computer scientists by Bertrand Meyer

@@ -7,7 +7,7 @@
 1 概观
 在19世纪初期，孔德认为过去神学及崇尚武力的社会慢慢消失，以理性、科学、工业为主的年代正在抬头，两者之间的冲突正是社会动荡的源头。在社会制度转变的时期，这种过渡性的冲突及混乱是无可避免。在旧制度消失前，人们无法体验新制度，往往需要多次社会转变才能改组社会。社会学就是针对社会改组的问题（现代性）而发展成为一门社会科学。涂尔干学派的社会学家不但希望了解什么使得社会团体聚集起来，更希望了解社会瓦解的发展过程，从而作出“纠正”。纠正的观念并不暗示社会学家预设一个「正确社会」的模板。涂尔干本人都不认为有一个终极的、完美的社会可以参考。简单来说，当一群人互动形成一个稳定的参考架构，运行良久，对他们来说就是「常态」。当社会制度问题积累下来，此一稳定状态被打破，形成混乱，即上述所谓「瓦解」时，就形成病态。因此涂尔干认为，社会学家职责在于找出一个社会的「日常常态」，如此才能确定出「病态」的判准。社会学家需要不断观察与分析，不是找出模板，宣称终极事实就结束。
 相反地，法兰克福学派的社会学家并不探索对纠正社会的方法。因为他们认为对社会病疾提出的纠正方案，往往是以一个小群体的观念强加到绝大多数人的身上，这不但解决不了问题，还会使问题加重。20世纪初，如霍克海默与阿多诺等人，受到上一代如韦伯与齐美尔学说影响，加之参考马克思理论，针对现代社会与资本主义制度产生悲观看法，其中尤其看到社会虽然高度分工，却也产生生活的分裂化。尤其是在艺术文化领域，大量复制技术的出现，造成艺术精神的丧失。法兰克福第二代哈伯玛斯继承上述观点，并参照美国结构功能主义与符号互动论、欧陆的现象学等，提出沟通行动论，与第一代悲观观点不同，认为必须致力建构一个可沟通的社会，才是悲观现代性的出路。而上述的观念，类似社会冲突论，知名人士如达伦道夫，也是以马克思对社会阶级分析为主，认为社会有掌握资源的的阶级，以及受统治的阶级，惟不同的是，马克思认为资产阶级握有生产工具，无产阶级因无工具而受宰制，需要反抗革命，观点较属于政治经济学，但冲突论者，结合韦伯对阶层──加入社会地位等角度，认为社会不平等，源自多方面，不只经济不平等。
-今天，社会学家对社会的研究包括了一系列的从宏观结构到微观行为的研究，包括对种族、民族、阶级和性别，到细如家庭结构个人社会关系模式的研究。社会学系分成更多更细的研究方向，包括像犯罪和离婚，在微观方面例如有人与人之间的关系。一些社会学家使用定量研究量化研究来以哲学的演绎法为根基，先预设假说，搜集样本后以机率与反面验证方式推论。的方法从数量上来描述一个社会总体结构，以此来研究可以预见社会变迁和人们对社会变迁反应的定量模型。这种由拉扎斯费尔德倡导的研究方法，现在是社会学研究中的两个主要方法论之一。社会学研究方法的另外一个主要流派是定性研究质化研究属于归纳法，透过不断归纳资料属性，最后建构一个关于对象专属的理论，又有人称为扎根理论。，包括历史社会学、参与观察、深度访谈、专题小组讨论等收集资料的方法，以及基于扎根理论、内容分析等定性资料的分析及归纳方法。从事定性分析的社会学家相信，这是一种更好的方法，因为这可以加强理解“离散”性的社会和独特性的人文。这种方法从不寻求有一致观点，但却可以互相欣赏各自所采取的独特方式并互相借鉴。主流的观点认为，定量和定性这两种研究方式是互补的，而不是矛盾的。涂尔干与韦伯都强调两者的重要性──亦即从主观（质化）与客观（量化）交错研究，到后来的象征互动派大师布鲁默（Herbert Blumer）相当强调质化的影响力。
+今天，社会学家对社会的研究包括了一系列的从宏观结构到微观行为的研究，包括对种族、民族、阶级和性别，到细如家庭结构个人社会关系模式的研究。社会学系分成更多更细的研究方向，包括像犯罪和离婚，在微观方面例如有人与人之间的关系。一些社会学家使用定量研究的方法从数量上来描述一个社会总体结构，以此来研究可以预见社会变迁和人们对社会变迁反应的定量模型。这种由拉扎斯费尔德倡导的研究方法，现在是社会学研究中的两个主要方法论之一。社会学研究方法的另外一个主要流派是定性研究，包括历史社会学、参与观察、深度访谈、专题小组讨论等收集资料的方法，以及基于扎根理论、内容分析等定性资料的分析及归纳方法。从事定性分析的社会学家相信，这是一种更好的方法，因为这可以加强理解“离散”性的社会和独特性的人文。这种方法从不寻求有一致观点，但却可以互相欣赏各自所采取的独特方式并互相借鉴。主流的观点认为，定量和定性这两种研究方式是互补的，而不是矛盾的。涂尔干与韦伯都强调两者的重要性──亦即从主观（质化）与客观（量化）交错研究，到后来的象征互动派大师布鲁默（Herbert Blumer）相当强调质化的影响力。
 
 2 社会学的角度
 社会学的角度就是让我们通过社会学看事物的方法去认识自己及分析社会。其中两种比较著名的社会学角度就是「社会学的想像力」（Sociological Imagination）及「破解谜思」（debunking）。
@@ -165,7 +165,6 @@
 
 11.2 来源
  中文书籍
-* ISBN = 9789571114200
 * ［德］韦伯. 《社会学的基本概念》, 广西师范大学出版社, 2005年, ISBN 978-7-5633-5205-0
 * 叶至诚. 《社会学是什么》，扬智文化事业股份有限公司，2005年, ISBN 978-957-818-718-4
 * ［美］乔治·瑞泽尔. 《当代社会学理论及其古典根源》, 北京大学出版社, 2005年, ISBN 978-7-301-08798-5
@@ -179,7 +178,7 @@
 * Anthony Giddens, Human Societies: Introduction Reading in Sociology
 * Robert A. Nisbet, The Sociological Tradition, London, Heinemann Educational Books, 1967, ISBN 978-1-56000-667-1
 * Evan Willis, The Sociological Quest: An introduction to the study of social life, 3rd edn, New Brunswick, NJ, Rutgers University Press, 1996, ISBN 978-0-8135-2367-5
-* Andrey Korotayev, Artemy Malkov, and Daria Khaltourina, Introduction to Social Macrodynamics, Moscow: URSS, 2006. ISBN 978-5-484-00414-0 .
+* Andrey , Artemy Malkov, and Daria Khaltourina, Introduction to Social Macrodynamics, Moscow: URSS, 2006. ISBN 978-5-484-00414-0 .
 * Li Yi. 2005. The Structure and Evolution of Chinese Social Stratification。University Press of America。ISBN 978-0-7618-3331-4
 * Samuel William Bloom, The Word as Scalpel: A History of Medical Sociology, Oxford University Press 2002
 * 雷蒙·布东 A Critical Dictionary of Sociology. Chicago: University of Chicago Press, 1989
@@ -212,7 +211,7 @@
 * Karl Van Meter, (dir.) La sociologie, Larousse, coll. Textes essentiels, 1999
 * Michel Lallement, Histoire des idées sociologiques, Tome 1 : Des origines à Weber, Nathan, coll. Circa, 1994
 * Jean-Pierre Delas, Bruno Milly, Histoire des pensées sociologiques, Sirey coll. Synthèse +, 1997
-* Jean-Pierre Durand, Robert Weil, Sociologie contemporaine, Vigot, rééd. 1997
+* Jean-Pierre Durand, , Sociologie contemporaine, Vigot, rééd. 1997
 * Michel Forsé  & alii, Histoire de la pensée sociologique - Les grands classiques, Armand Colin, 1998
 
  波兰文书籍
@@ -252,7 +251,7 @@
 * 国际社会学协会
 * 社会研究的方法
 * SocioSite - 社会科学系讯系统
-* 社会理论及理论学家fix-attempted=yes
+* 社会理论及理论学家
 * 社会学的详尽介绍
 * Theory.org.uk David Gauntlett
 * 社会现象 王滕

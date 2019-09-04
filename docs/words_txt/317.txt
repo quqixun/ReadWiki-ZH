@@ -43,7 +43,7 @@ AI的核心问题包括建构能够跟人类似甚至超卓的推理、知识、
 机器感知是指能够使用感测器所输入的资料（如照相机、麦克风、声纳以及其他的特殊感测器）然后推断世界的状态。计算机视觉能够分析影像输入。另外还有语音识别、人脸辨识和物体辨识。
 
 3.8 社交
-Kismet，一个具有表情等社交能力的机器人
+，一个具有表情等社交能力的机器人
 情感和社交技能对于一个智能agent是很重要的。首先，通过了解他们的动机和情感状态，代理人能够预测别人的行动（这涉及要素 博弈论、决策理论以及能够塑造人的情感和情绪感知能力检测）。此外，为了良好的人机互动，智慧代理人也需要表现出情绪来。至少它必须出现礼貌地和人类打交道。至少，它本身应该有正常的情绪。
 
 3.9 创造力
@@ -57,7 +57,7 @@ DeepMind的人工智慧（AI）系统在2016年「AlphaGo」对战南韩棋王�
 3.11 经济冲击
 据CNN财经网数字媒体未来学家兼Webbmedia集团创始人艾米·韦伯（Amy Webb）；美国在线...等纷纷预测一些即将被机器人取代的职业，日本野村总合研究所也与英国牛津大学的研究学者共同调查指出，10至20年后，日本有49%的职业(235种职业)可能会被机械和人工智慧取代而消失，直接影响约达2500万人，例如：超市店员、一般事务员、计程车司机、收费站运营商和收银员、市场营销人员、客服人员、制造业工人、金融中间人和分析师、新闻记者、电话公司职员、麻醉师、士兵和保安、律师、医生、软体开发者和操盘手、股票交易员等等高薪酬的脑力职业将最先受到冲击。
 2017年6月份马云在美国底特律举行「链结世界」（Gateway 17）产业大会，会上提出人工智慧可能导致第三次世界大战，因为前两次产业革命都导致两次大战，战争原因并非这些创新发明本身，而是发明对社会上许多人的生活方式冲击处理不当，新科技在社会上产生新工作也取代旧工作，产生了新的输家和赢家，若是输家的人数太多将造成一股社会不稳的能量而这股能量被有心人利用可能导致各种事件。他认为各国应该强制订定规定AI机器只能用于人类不能做的工作，避免短时间大量人类被取代的失业大潮，但马云没有提出这种世界性规定将如何实现并确保遵守的细节方案。
-数据科学和人工智能被哈佛商业评论称为《二十一世纪最Sexy的职业》，人工智能需求量大，鼓励了不少大学诸如伯克利大学专门成立数据科学系。硅谷和纽约为主的《The Data Incubator》公司于2012年成立，焦点是数据科学，大数据，和人工智能企业培训，提供国际大数据培训服务。
+数据科学和人工智能被哈佛商业评论称为《二十一世纪最Sexy的职业》，人工智能需求量大，鼓励了不少大学诸如伯克利大学专门成立数据科学系。硅谷和纽约为主的《》公司于2012年成立，焦点是数据科学，大数据，和人工智能企业培训，提供国际大数据培训服务。
 
 4 强人工智能和弱人工智能
 人工智能的一个比较流行的定义，也是该领域较早的定义，是由当时麻省理工学院的约翰·麦卡锡在1956年的达特矛斯会议上提出的：人工智能就是要让机器的行为看起来就像是人所表现出的智能行为一样。但是这个定义似乎忽略了强人工智能的可能性（见下）。另一个定义指人工智能是人造机器所表现出来的智能。总体来讲，目前对人工智能的定义大多可划分为四类，即机器「像人一样思考」、「像人一样行动」、「理性地思考」和「理性地行动」。这里「行动」应广义地理解为采取行动，或制定行动的决策，而不是肢体动作。
@@ -77,15 +77,15 @@ DeepMind的人工智慧（AI）系统在2016年「AlphaGo」对战南韩棋王�
 「强人工智能」一词最初是约翰·罗杰斯·希尔勒针对计算机和其它信息处理机器创造的，其定义为：
 「强人工智能观点认为计算机不仅是用来研究人的思维的一种工具；相反，只要运行适当的程序，计算机本身就是有思维的。」（J Searle in Minds Brains and Programs. The Behavioral and Brain Sciences, vol. 3, 1980）
 关于强人工智能的争论，不同于更广义的一元论和二元论的争论。其争论要点是：如果一台机器的唯一工作原理就是转换编码数据，那么这台机器是不是有思维的？希尔勒认为这是不可能的。他举了个中文房间的例子来说明，如果机器仅仅是转换数据，而数据本身是对某些事情的一种编码表现，那么在不理解这一编码和这实际事情之间的对应关系的前提下，机器不可能对其处理的数据有任何理解。基于这一论点，希尔勒认为即使有机器通过了图灵测试，也不一定说明机器就真的像人一样有自我思维和自由意识。
-也有哲学家持不同的观点。丹尼尔·丹尼特在其著作《Consciousness Explained》（Consciousness Explained）里认为，人也不过是一台有灵魂的机器而已，为什么我们认为：「人可以有智能，而普通机器就不能」呢？他认为像上述的数据转换机器是有可能有思维和意识的。
-有的哲学家认为如果弱人工智能是可实现的，那么强人工智能也是可实现的。比如Simon Blackburn（Simon Blackburn）在其哲学入门教材Think里说道，一个人的看起来是「智能」的行动并不能真正说明这个人就真的是智能的。我永远不可能知道另一个人是否真的像我一样是智能的，还是说她／他仅仅是「看起来」是智能的。基于这个论点，既然弱人工智能认为可以令机器「看起来」像是智能的，那就不能完全否定这机器是真的有智能的。布莱克本认为这是一个主观认定的问题。
+也有哲学家持不同的观点。丹尼尔·丹尼特在其著作《》（Consciousness Explained）里认为，人也不过是一台有灵魂的机器而已，为什么我们认为：「人可以有智能，而普通机器就不能」呢？他认为像上述的数据转换机器是有可能有思维和意识的。
+有的哲学家认为如果弱人工智能是可实现的，那么强人工智能也是可实现的。比如（Simon Blackburn）在其哲学入门教材Think里说道，一个人的看起来是「智能」的行动并不能真正说明这个人就真的是智能的。我永远不可能知道另一个人是否真的像我一样是智能的，还是说她／他仅仅是「看起来」是智能的。基于这个论点，既然弱人工智能认为可以令机器「看起来」像是智能的，那就不能完全否定这机器是真的有智能的。布莱克本认为这是一个主观认定的问题。
 需要指出的是，弱人工智能并非和强人工智能完全对立，也就是说，即使强人工智能是可能的，弱人工智能仍然是有意义的。至少，今日的计算机能做的事，像算术运算等，在一百多年前是被认为很需要智能的。并且，即使强人工智能被证明为可能的，也不代表强人工智能必定能被研制出来。
 
 5 研究方法
 目前没有统一的原理或范式指导人工智能研究。许多问题上研究者都存在争论。
 其中几个长久以来仍没有结论的问题是：是否应从心理或神经方面模拟人工智能?或者像鸟类生物学对于航空工程一样，人类生物学对于人工智能研究是没有关系的？智能行为能否用简单的原则（如逻辑或优化）来描述？还是必须解决大量完全无关的问题？
 智能是否可以使用高级符号表达，如词和想法？还是需要“子符号”的处理？
-约翰·豪格兰德（John Haugeland）提出了GOFAI（出色的老式人工智能）的概念，也提议人工智能应归类为synthetic intelligence，p=255这个概念后来被某些非GOFAI研究者采纳。
+约翰·豪格兰德（John Haugeland）提出了GOFAI（出色的老式人工智能）的概念，也提议人工智能应归类为，这个概念后来被某些非GOFAI研究者采纳。
 
 5.1 控制论与大脑模拟
 20世纪40年代到50年代，许多研究者探索神经学、信息理论及控制论之间的联系。其中还造出一些使用电子网络构造的初步智能，如格雷·华特（W. Grey Walter）的乌龟（turtle）和约翰霍普金斯野兽（Johns Hopkins Beast）。
@@ -209,19 +209,12 @@ DeepMind的人工智慧（AI）系统在2016年「AlphaGo」对战南韩棋王�
  人工智能历史
  其他
 * BibTex  Internet Archive
-* deadurl=no .
-* deadurl=yes
 * .
 * .
-* deadurl = yes
-* deadurl = yes .
-* deadurl = no
-* dead-url=yes
-* archivedate = 2008-10-07 .
+* .
+* .
+* .
 * , Presidential Address to the Association for the Advancement of Artificial Intelligence.
-* archivedate = 2010-01-18
-* archivedate = 2012-03-01
-* archivedate = 2012-06-20
 * Andreas Kaplan; Michael Haenlein (2018) Siri, Siri in my Hand, who's the Fairest in the Land? On the Interpretations, Illustrations and Implications of Artificial Intelligence, Business Horizons, 62(1)
 
 
@@ -230,18 +223,16 @@ DeepMind的人工智慧（AI）系统在2016年「AlphaGo」对战南韩棋王�
 * Boden, Margaret, Mind As Machine, Oxford University Press, 2006
 * Johnston, John (2008) "The Allure of Machinic Life: Cybernetics, Artificial Life, and the New AI", MIT Press
 * Myers, Courtney Boyd ed. (2009).  The AI Report. Forbes June 2009
-* doi = 10.1016/j.joi.2010.04.001
 * Sun, R. & Bookman, L. (eds.), Computational Architectures: Integrating Neural and Symbolic Processes. Kluwer Academic Publishers, Needham, MA. 1994.
 
 
 14 外部连结
 * What Is AI?—An introduction to artificial intelligence by AI founder John McCarthy.
-* AI
 * AITopics—A large directory of links and other resources maintained by the Association for the Advancement of Artificial Intelligence, the leading organization of academic AI researchers.
 * Artificial Intelligence Discussion group
 * 机器人智能机器人智能
-* 研学论坛fix-attempted=yes 关于人工智能，模式识别，科学交流的学术论坛
-* 中国人工智能网－人工智能|模式识别|数字图像处理fix-attempted=yes
+* 研学论坛关于人工智能，模式识别，科学交流的学术论坛
+* 中国人工智能网－人工智能|模式识别|数字图像处理
 * AI Depot—community discussion, news, and articles
 * Loebner Prize website
 * Game AI—计算机游戏开发者的AI资源

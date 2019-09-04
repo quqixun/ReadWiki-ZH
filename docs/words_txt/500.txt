@@ -44,7 +44,7 @@
 虽然拓扑学是形式化和一般化物体“连续形变”的直觉概念的研究领域，其也包含很多离散主题，如拓扑变换时常取离散值，组合拓扑、拓扑图论、拓扑组合、计算拓扑、离散空间、有限拓扑空间等领域。
 
 2.10 运筹学
-。
+
 
 2.11 博弈论、决策论、效用理论、社会选择理论
 博弈论用于处理的问题比较复杂，通常这些选择成功与否取决于其他人的选择，因此如何作最好出一个最好的选择比较复杂。连续对策甚至也是存在的，如微分博弈。博弈论的主题包括拍卖理论和公平分配博弈。
@@ -79,7 +79,7 @@
 * Norman L. Biggs, Discrete Mathematics 2nd ed. Oxford University Press. ISBN 978-0-19-850717-8.  Companion Web site:  includes questions together with solutions.
 * Ronald Graham, Donald E. Knuth, Oren Patashnik, Concrete Mathematics
 * Richard Johnsonbaugh, Discrete Mathematics 6th ed. Macmillan.  ISBN 978-0-13-045803-2.  Companion Web site:
-* cite book | author=Klette, R., and A. Rosenfeld | title= Digital Geometry | publisher=Morgan Kaufmann | year=2004 | isbn=1-55860-861-3 Also on (digital) topology, graph theory, combinatorics, axiomatic systems.
+* Also on (digital) topology, graph theory, combinatorics, axiomatic systems.
 * Donald E. Knuth, The Art of Computer Programming
 * Kenneth H. Rosen, Handbook of Discrete and Combinatorial Mathematics CRC Press.  ISBN 978-0-8493-0149-0.
 * Kenneth H. Rosen, Discrete Mathematics and Its Applications 6th ed. McGraw Hill.  ISBN 978-0-07-288008-3.  Companion Web site: http://highered.mcgraw-hill.com/sites/0072880082/information_center_view0/
