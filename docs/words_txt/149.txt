@@ -1,7 +1,7 @@
 GNU计划
 
 GNU计划（GNU Project），又译为革奴计划，是一个自由软体集体协作计划，1983年9月27日由理查德·斯托曼在麻省理工学院公开发起。它的目标是创建一套完全自由的操作系统，称为GNU。理查德·斯托曼最早在net.unix-wizards新闻组上公布该消息，并附带一份《GNU宣言》等解释为何发起该计划的文章，其中一个理由就是要“重现当年软件界合作互助的团结精神”。
-GNU是“GNU is Not Unix”的递归缩写。为避免与单词gnu（非洲牛羚，发音与「new」相同）混淆，斯托曼宣布GNU发音应为「Guh-NOO」（），与「canoe」发音相似。其中，Emacs就是由这个计划孵化而出。
+GNU是“GNU is Not Unix”的递归缩写。为避免与单词gnu（非洲牛羚，发音与「new」相同）混淆，斯托曼宣布GNU发音应为「Guh-NOO」（/ˈgnuː/），与「canoe」发音相似。其中，Emacs就是由这个计划孵化而出。
 UNIX是一种广泛使用的商业操作系统的名称。由于GNU将要实现UNIX系统的接口标准，因此GNU计划可以分别开发不同的操作系统。GNU计划采用了部分当时已经可自由使用的软件，例如TeX排版系统和X Window视窗系统等。不过GNU计划也开发了大批其他的自由软件，这些软件也被移植到其他操作系统平台上，例如Microsoft Windows、BSD家族、Solaris及Mac OS。
 为保证GNU软件可以自由地“使用、复制、修改和发布”，所有GNU软件都包含一份在禁止其他人添加任何限制的情况下，授权所有权利给任何人的协议条款，GNU通用公共许可证（GNU General Public License，GPL）。这个就是被称为“公共版权”的概念。GNU也针对不同场合，提供GNU宽通用公共许可证与GNU自由文档许可证这两种协议条款。
 
@@ -18,6 +18,7 @@ GNU工程十几年以来已经成为一个对软件开发主要的影响力量�
 以下是GNU计划的正式发言人：
 * Robert J. Chassell
 * Loïc Dachary
+* Ricardo Galli
 * Georg Greve
 * Federico Heinz
 * Bradley Kuhn

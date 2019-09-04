@@ -1,6 +1,6 @@
 经济学
 
-经济学是一门对产品和服务的生产、分配以及消费进行研究的社会科学。西方语言中的“经济学”一词源于古希腊的  Jevons, W. Stanley (1879). The Theory of Political Economy, 2nd ed., Macmillan. p.  xiv.，意为家庭管理。中文“经济学”一次最早见于隋朝王通《文中子》：“皆有经济之道，谓经国济民”。1897年，贵州学政严修奏请开设经济特科，经济学成为显学。
+经济学是一门对产品和服务的生产、分配以及消费进行研究的社会科学。西方语言中的“经济学”一词源于古希腊的wikt:οἰκονομία  Jevons, W. Stanley (1879). The Theory of Political Economy, 2nd ed., Macmillan. p.  xiv.，意为家庭管理。中文“经济学”一次最早见于隋朝王通《文中子》：“皆有经济之道，谓经国济民”。1897年，贵州学政严修奏请开设经济特科，经济学成为显学。
 经济学注重的是研究经济行为者在一个经济体系下的行为，以及他们彼此之间的互动。在现代，经济学的教材通常将这门领域的研究分为微观经济学和宏观经济学。微观经济学检视一个社会里基本层次的行为，包括个体的行为者（例如个人、公司、买家或卖家）以及与市场的互动。而宏观经济学则分析整个经济体和其议题，包括失业、通货膨胀、经济成长、财政和货币政策等。
 其他的对照还包括了实证经济学（研究「是什么」）以及规范经济学（研究「应该是什么」）、经济理论与实用经济学、行为经济学与理性选择经济学、主流经济学（研究理性-个体-均衡等）与非主流经济学（研究体制-历史-社会结构等）。
 经济学的分析也被用在其他各种领域上，主要领域包括了商业、金融、和政府等，但同时也包括了如健康、犯罪、教育、法律、政治、社会架构、宗教、战争、和科学等等。到了21世纪初，经济学在社会科学领域各方面不断扩张影响力，使得有些学者讽刺地称其为「经济学帝国主义」   Becker, Gary S. (1976). The Economic Approach to Human Behavior.  Links to arrow-page viewable chapter. University of Chicago Press.。
@@ -123,12 +123,12 @@
 主流经济学理论依靠的是先验的经济模型，并从中衍生众多概念。这些经济论述通常假设在「其他情况保持不变」之下，研究聚焦的变数是如何因应各种条件进行改变。当进行经济学论述时，经济学家重视的是寻找可以以最少观察资讯来实证、最为明确表达、同时可以衍生出其他研究的理论。
 在个体经济学下，主要的研究概念为供给与需求、边际主义、理性选择理论、机会成本、预算线、效用、以及公司研究。而总体经济学早期则聚焦于对于总体变因的模型建构，然而随著时间发展，这种路线逐渐被淘汰，取而代之的研究则更注重于以个体基础出发的总体研究。
 个体经济学的许多概念对总体经济学的领域都起了重大影响，例如货币政策上，货币主义主张的货币数量论指出对货币的供给扩张会因为市场的理性预期而造成通货膨胀。在发展经济学中，已开发国家一般被预测会有比较小幅度的经济成长，因为资本投资的边际回收会随著发展程度而开始下降，这种趋势就在亚洲四小龙的发展上被观察到。有时候这些经济假说所主张的只是一种「定向」或「趋势」，而非绝对的数据改变。
-在近几十年，赛局理论于社会科学领域的急速扩张也对经济学产生巨大影响，透过例如纳什均衡点作为研究经济个体决策的基准，经济学家可以在不依靠实际世界资料的情况下对许多领域做出分析和预测   Martin Shubik (1981). "Game Theory Models and Methods in Political Economy," in Kenneth Arrow and Michael Intriligator, ed., Handbook of Mathematical Economics, v. 1, pp. 285-330 .   Carl Shapiro (1989). "The Theory of Business Strategy," RAND Journal of Economics, 20(1), pp. 125-137.。标准的赛局理论经济学论述通常先设计一个与现有经济问题类似的「赛局」，经济学家并以赛局里的单方行为和多方互动来研究他们如何在不同规则下进行利益最大化。
+在近几十年，赛局理论于社会科学领域的急速扩张也对经济学产生巨大影响，透过例如纳什均衡点作为研究经济个体决策的基准，经济学家可以在不依靠实际世界资料的情况下对许多领域做出分析和预测   Martin Shubik (1981). "Game Theory Models and Methods in Political Economy," in Kenneth Arrow and Michael Intriligator, ed., Handbook of Mathematical Economics, v. 1, pp. 285-330 10.1016/S1573-4382(81)01011-4.   Carl Shapiro (1989). "The Theory of Business Strategy," RAND Journal of Economics, 20(1), pp. 125-137.。标准的赛局理论经济学论述通常先设计一个与现有经济问题类似的「赛局」，经济学家并以赛局里的单方行为和多方互动来研究他们如何在不同规则下进行利益最大化。
 
 5.2 观察上的研究
 经济理论经常被用观察上的方法加以验证，通常是透过计量经济学来检视经济数据。一般实体科学常见的封闭实验在经济学上是很难达成而且很少见的，也因此，经济学家通常倚赖观察既有资料的方式来测试他们的理论，虽然这样观察实验的结果没有封闭实验来的准确、也比要容易被质疑。尽管如此，实验经济学是一门逐渐在成长的领域，而且对既有模型的观察也在增加。
 统计学的研究方法例如回归分析也很常见，使用者用此方法来估计规模、经济重要性、以及统计显著性，借此来提出假说、并且控制变因的影响。透过这种作法，一个假说有可能因此获得支持，尽管其准确性仍然只是机率上的、而不是绝对的，判断研究的标准则是依靠其可否证性以及证伪结果。由于实验结果的不确定性，这些观察研究并不一定要对其研究问题提出决定性的结论，甚至也不一定要提出主要的发现。在实用经济学领域上，以线性规划来进行投入-产出模型的研究相当常见，为了研究某种政策对各方面的影响，经济学家常将大量资料交由电脑统计分析。
-专业的同行评审和对于结果的重新生成也能进一步确保观察实验不会产生有偏见的、错误的、或轻率概化的结果，尽管经济学许多研究领域都常被批评是无法重生研究结果的。如同纯粹的理论，对于统计实验的使用也会受到批判分析   McCloskey, Deirdre N. and Stephen T. Ziliak (1996). "The Standard Error of Regressions", Journal of Economic Literature, 34(1), pp.  97–114.   Hoover, Kevin D., and Mark V. Siegler (2008). "Sound and Fury: McCloskey and Significance Testing in Economics", Journal of Economic Methodology, 15(1), pp. 1–37  (2005 prepubication version).  Reply of McCloskey and Ziliak and rejoinder, pp. 39–68.，尽管如此，在过去40年间，单纯为批评其他研究结果的文章在如美国经济评论的期刊上一直减少，这被认为是期刊试图增加其引用数量的一种结果。
+专业的同行评审和对于结果的重新生成也能进一步确保观察实验不会产生有偏见的、错误的、或轻率概化的结果，尽管经济学许多研究领域都常被批评是无法重生研究结果的。如同纯粹的理论，对于统计实验的使用也会受到批判分析   McCloskey, Deirdre N. and Stephen T. Ziliak (1996). "The Standard Error of Regressions", Journal of Economic Literature, 34(1), pp.  97–114.   Hoover, Kevin D., and Mark V. Siegler (2008). "Sound and Fury: McCloskey and Significance Testing in Economics", Journal of Economic Methodology, 15(1), pp. 1–37  (2005 prepubication version). date=2008-05-27  Reply of McCloskey and Ziliak and rejoinder, pp. 39–68.，尽管如此，在过去40年间，单纯为批评其他研究结果的文章在如美国经济评论的期刊上一直减少，这被认为是期刊试图增加其引用数量的一种结果。
 实验经济学也造就了许多以封闭式对照实验为方法的研究，直接测试一般被视为真理的一些经济学理论，这将传统上经济学与自然科学的区分给缩小了   Smith, Vernon L. (1987), "experimental methods in economics", ii. The New Palgrave: A Dictionary of Economics, v. 2, pp. 241–42.，例如最后通牒赛局的实验结果便证实了人们会拒绝接受不平等的分配方式。
 在行为经济学上，心理学家丹尼尔·卡内曼与阿摩司·特沃斯基一起因为他们对于展望理论和认知偏差的发现而获得2002年的诺贝尔经济学奖，在神经经济学上的观察实验也证实了类似结果。另外一个例子则是对照传统的私利偏好假设与一个可以测试自私、利他、与合作倾向的模型   Sigmund, Karl, Ernst Fehr, and Martin A. Nowak (2002),"The Economics of Fair Play", Scientific American, 286(1) January,  pp. 82–87.。这些研究的进展使得一些人主张经济学也是「真正的科学」的一部分
 
@@ -198,7 +198,7 @@
 7.2 质疑
 经济学长久来持续被质疑是依靠不实际的、无法验证的、或是过度简化的假说来做为理论依据，质疑者主张这种简化过程免除了经济学家提出结论所要举出的证据。经常被质疑的假说例如利润最大化、理性选择等等   Boland, Lawrence A. (2008). "assumptions controversy", The New Palgrave Dictionary of Economics, 2nd Edition  Online abstract. Accessed May 30, 2008.。不过，资讯经济学包含的就是这方面以数学研究和行为经济学来研究个体在利润最大化以外的行为。另外一些主流的经济学家例如凯恩斯也曾观察到大部分的经济学领域都是透过概念上的而非数据上的证据来建立，也因此无法像其他自然科学一样透过数据来验证。
 近年来，批评新古典主义经济学的女性主义者也开始浮现，促使了女性主义经济学的诞生。女性主义经济学批评经济学一般对于实证和客观的假设，认为现有的模型和方法只反映出男性社会的偏好。女性主义经济学经常提出的批评包括经济学忽视家庭主妇的家事劳动价值、家庭的经济掌管和收支。
-一些从物理学角度出发的科学家则批评经济学依靠的是19世纪的物理学假设，例如便从热力学里提出了与能源经济学有关的熵理论，以区别他认为主流经济学依据在牛顿物理学上所建构的理论框架。他的理论对于热力经济学和生态经济学有相当的影响   Daly, H. 1995. "On Nicholas Georgescu-Roegen's Contributions to Economics: An Obituary essay." Ecological Economics 13: 149–54.   Mayumi, K. 1995. Nicholas Georgescu-Roegen (1906–1994): an admirable epistemologist. Structural Change and Economic Dynamics 6: 115–120.   Mayumi, K. and Gowdy, J. M. (eds.) 1999. Bioeconomics and Sustainability: Essays in Honor of Nicholas Georgescu-Roegen. Cheltenham: Edward Elgar.   Mayumi, K. 2001. The Origins of Ecological Economics: The Bioeconomics of Georgescu-Roegen. London: Routledge.。
+一些从物理学角度出发的科学家则批评经济学依靠的是19世纪的物理学假设，例如Nicholas Georgescu-Roegen便从热力学里提出了与能源经济学有关的熵理论，以区别他认为主流经济学依据在牛顿物理学上所建构的理论框架。他的理论对于热力经济学和生态经济学有相当的影响   Daly, H. 1995. "On Nicholas Georgescu-Roegen's Contributions to Economics: An Obituary essay." Ecological Economics 13: 149–54.   Mayumi, K. 1995. Nicholas Georgescu-Roegen (1906–1994): an admirable epistemologist. Structural Change and Economic Dynamics 6: 115–120.   Mayumi, K. and Gowdy, J. M. (eds.) 1999. Bioeconomics and Sustainability: Essays in Honor of Nicholas Georgescu-Roegen. Cheltenham: Edward Elgar.   Mayumi, K. 2001. The Origins of Ecological Economics: The Bioeconomics of Georgescu-Roegen. London: Routledge.。
 一些人例如尼可拉斯·塔雷伯（Nassim Nicholas Taleb）则批评经济学的理论方式，认为经济学过度倚赖柏拉图的理型论研究模型，并主张经济学理论错误的结果可能会对人类整体造成庞大灾害，他以随机性和不确定性问题来质疑许多既有的经济模型。然而如同其他的批评，并非所有经济学家倚赖的都是新古典经济学的模型和假设。而一些经济学家也正视了塔雷伯提出的问题，例如诺贝尔经济学奖得主丹尼尔·卡内曼便对塔雷伯的理论赞誉有嘉。而尽管这些批评的存在，主流的经济学研究所课程已经发展得越来越趋向于技术化和数学化的研究方式。
 
 8 参见
@@ -214,6 +214,7 @@
 
 10 外部连结
 一般资讯
+* 经济学
 * 网路上的经济学期刊
 * Economics 大英百科有关经济学的条目
 * 经济学家资源: 美国经济学会维持的资料库

@@ -74,7 +74,7 @@ class WIKIParse(object):
 
     def __clean(self, s):
         s = self.__clean_synonym(s)
-        s = self.__clean_template(s)
+        # s = self.__clean_template(s)
 
         s = re.sub(r':*{\|[\s\S]*?\|}', '', s)
         s = re.sub(r'\[\[File:.*\]\]', '', s)

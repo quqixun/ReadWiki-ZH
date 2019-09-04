@@ -215,7 +215,7 @@
 15 参考文献
 
 16 外部连结
-* 地理坐标：
+* 地理坐标：display=inline,title
 * Township level administrative map of Guizhou
 
  政府网站

@@ -51,6 +51,7 @@
 * Ultrix
 * UniCOS
 * z/OS
+* Syllable Desktop
 * Minix
 * BSD
 * NetBSD
@@ -66,7 +67,7 @@
 * Hurd
 
 :*GNU/Hurd
-* Linux（或称GNU/Linux）
+* Linux（或称GNU/Linux）Linux发行版列表
 
 ::*Debian
 ::*Red Hat
