@@ -112,7 +112,9 @@ Linux社群中的一些成员，如埃里克·雷蒙、林纳斯·托瓦兹等�
 8.1 引用
 
 8.2 来源
-* cite book  |last1 = Torvalds |first1 = Linus  |last2 = Diamond|first2 = David |title=Just for Fun: The Story of an Accidental Revolutionary |publisher=Harper-Collins Business |ISBN =
+* cite book
+
+title=Just for Fun: The Story of an Accidental Revolutionary |publisher=Harper-Collins Business |ISBN = 
 * ISBN = 978-0-7139-9520-6
 * archivedate=2005-04-07
 * accessdate = 2004-01-19

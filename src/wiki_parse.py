@@ -43,7 +43,7 @@ class WIKIParse(object):
     def __clean_synonym(self, s):
 
         t1 = r'-{(.*?)}-'
-        t2 = r'.*zh-(hans|cn):(.*?)(;|}-|;zh).*'
+        t2 = r'.*zh-(?:hans|cn):(.*?)(;|}-|;zh).*'
 
         while True:
             match1 = re.search(t1, s, re.DOTALL)
