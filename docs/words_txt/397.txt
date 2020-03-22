@@ -17,9 +17,9 @@
 根据以上标准，本表收录了208个政治实体：
 * 195个为联合国系统：
  * 其中193国为联合国会员国。
- * 其中2国为联合国观察员国：圣座（梵蒂冈，Vatican City）、巴勒斯坦（Palestine）（后者为未获国际普遍承认的实体，存在领土及主权争端）。
+ * 其中2国为联合国观察员国：梵蒂冈（Vatican City）、巴勒斯坦（Palestine）（后者为未获国际普遍承认的实体，存在领土及主权争端）。
 * 13个为非联合国系统：
- * 其中11个是未获国际普遍承认的实体，存在主权争端。具体包括（英文字母排序）：阿布哈兹（Abkhazia）、南奥塞梯（South Ossetia）、阿尔扎赫（Artsakh）、科索沃（Kosovo）、北塞浦路斯（Turkish Republic of Northern Cyprus）、索马里兰（Somaliland）、阿拉伯撒哈拉民主共和国（Western Sahara）、（Taiwan，Republic of China）、德涅斯特河沿岸（Transnistria）、卢甘斯克人民共和国（Lugansk People's Republic）、顿涅茨克人民共和国（Donetsk People's Republic）。
+ * 其中11个是未获国际普遍承认的实体，存在主权争端。具体包括（英文字母排序）：阿布哈兹（Abkhazia）、南奥塞梯（South Ossetia）、阿尔扎赫（Artsakh）、科索沃（Kosovo）、北塞浦路斯（Turkish Republic of Northern Cyprus）、索马里兰（Somaliland）、阿拉伯撒哈拉民主共和国（Western Sahara）、（Republic of China）、德涅斯特河沿岸（Transnistria）、卢甘斯克人民共和国（Lugansk People's Republic）、顿涅茨克人民共和国（Donetsk People's Republic）。
  * 其中2个是未获国际普遍承认的实体，不存在主权争端。具体包括（英文字母排序）：库克群岛（Cook Islands）、纽埃（Niue）。
 
 

@@ -1,6 +1,6 @@
 经济学
 
-经济学是一门对产品和服务的生产、分配以及消费进行研究的社会科学。西方语言中的“经济学”一词源于古希腊的wikt:οἰκονομία  Jevons, W. Stanley (1879). The Theory of Political Economy, 2nd ed., Macmillan. p.  xiv.，意为家庭管理。中文“经济学”一次最早见于隋朝王通《文中子》：“皆有经济之道，谓经国济民”。1897年，贵州学政严修奏请开设经济特科，经济学成为显学。
+经济学是一门对商品和服务的生产、分配以及消费进行研究的社会科学。西方语言中的“经济学”一词源于古希腊的wikt:οἰκονομία  Jevons, W. Stanley (1879). The Theory of Political Economy, 2nd ed., Macmillan. p.  xiv.，意为家庭管理。中文“经济学”一词最早见于隋朝王通《文中子》：“皆有经济之道，谓经国济民”。1897年，贵州学政严修奏请开设经济特科，经济学成为显学。
 经济学注重的是研究经济行为者在一个经济体系下的行为，以及他们彼此之间的互动。在现代，经济学的教材通常将这门领域的研究分为微观经济学和宏观经济学。微观经济学检视一个社会里基本层次的行为，包括个体的行为者（例如个人、公司、买家或卖家）以及与市场的互动。而宏观经济学则分析整个经济体和其议题，包括失业、通货膨胀、经济成长、财政和货币政策等。
 其他的对照还包括了实证经济学（研究「是什么」）以及规范经济学（研究「应该是什么」）、经济理论与实用经济学、行为经济学与理性选择经济学、主流经济学（研究理性-个体-均衡等）与非主流经济学（研究体制-历史-社会结构等）。
 经济学的分析也被用在其他各种领域上，主要领域包括了商业、金融、和政府等，但同时也包括了如健康、犯罪、教育、法律、政治、社会架构、宗教、战争、和科学等等。到了21世纪初，经济学在社会科学领域各方面不断扩张影响力，使得有些学者讽刺地称其为「经济学帝国主义」   Becker, Gary S. (1976). The Economic Approach to Human Behavior.  Links to arrow-page viewable chapter. University of Chicago Press.。
@@ -111,7 +111,7 @@
 当然，这种理论是根基在没有考虑到挤出效应的假设上。如果产出浪费并不存在，那经济体便是以完全的产能在运作，这时如果政府介入增加财政支出，便会挤压到民间产业的经济活动，也因此不会产生经济增长。支持扩张性财政者认为挤出效应只有在没有产出浪费时才会出现，而反对的经济学家认为这种效应是永远存在的，并且指出李嘉图等价理论，他们主张政府借贷必然需要以未来的课税增加来偿还，而任何因为政府财政政策所引起的需求增长，都会因为民间为应付未来高税率的储蓄而被消除。
 
 4 国际经济学
-国际经济学研究国与国之间的贸易往来，并且研究国际贸易可以带来的贸易利得，重要的政策研究包括了关税以及贸易壁垒对于进出口和经济成长的影响。国际金融学则是整体经济学里一门专门研究资本如何在各国之间流动的领域，并且研究汇率。国际贸易的增长、各国分工的增强和密集化是全球化重要的来源   Venables, A. (2001), "international trade: economic integration", International Encyclopedia of the Social & Behavioral Sciences, pp. 7843–7848.  Abstract.   Obstfeld, Maurice (2008). "international finance", The New Palgrave Dictionary of Economics, 2nd Edition.  Abstract.。
+国际经济学研究国与国之间的贸易往来，并且研究国际贸易可以带来的贸易利得，重要的政策研究包括了关税以及贸易壁垒对于进出口和经济成长的影响。国际金融学则是整体经济学里一门专门研究资本如何在各国之间流动的领域，并且研究汇率。国际贸易的增长、各国分工的增强和密集化是全球化重要的来源   Venables, A. (2001), "international trade: economic integration", International Encyclopedia of the Social & Behavioral Sciences, pp. 7843–7848.  Abstract. date=20160924163642    Obstfeld, Maurice (2008). "international finance", The New Palgrave Dictionary of Economics, 2nd Edition.  Abstract.。
 发展经济学则是研究在发展程度相对落后的开发中国家，并且研究产业改变、贫穷、和经济成长。与其他经济学领域不同的是，发展经济学经常结合社会与政治的议题作为考量   Blaug, Mark (2007). "The Social Sciences: Economics", Growth and development, The New Encyclopædia Britannica, v. 27, p. 351. Chicago.。
 经济体系是经济学里研究各国经济体系差异的领域，研究的重点包括了各国在经济路线、发展策略、产权保护、以及经济资源分配等指标上的差异。这门领域的研究是以一个「经济体系」作为最基本的研究单位。
 在当代经济体系里，经济组织的两大不同路线为社会主义体制和资本主义体制，一者是以国家统御经济、另一者则是以自由市场来进行，而这两者之间的中间路线为混合经济。研究经济体系与政治体制之间的互动，也被称为政治经济学，「经济体系比较」指的则是衡量不同经济体系之间的经济行为和成长差异   • NA (2007). "economic system", Encyclopædia Britannica online Concise Encyclopedia。
@@ -199,7 +199,7 @@
 经济学长久来持续被质疑是依靠不实际的、无法验证的、或是过度简化的假说来做为理论依据，质疑者主张这种简化过程免除了经济学家提出结论所要举出的证据。经常被质疑的假说例如利润最大化、理性选择等等   Boland, Lawrence A. (2008). "assumptions controversy", The New Palgrave Dictionary of Economics, 2nd Edition  Online abstract. Accessed May 30, 2008.。不过，资讯经济学包含的就是这方面以数学研究和行为经济学来研究个体在利润最大化以外的行为。另外一些主流的经济学家例如凯恩斯也曾观察到大部分的经济学领域都是透过概念上的而非数据上的证据来建立，也因此无法像其他自然科学一样透过数据来验证。
 近年来，批评新古典主义经济学的女性主义者也开始浮现，促使了女性主义经济学的诞生。女性主义经济学批评经济学一般对于实证和客观的假设，认为现有的模型和方法只反映出男性社会的偏好。女性主义经济学经常提出的批评包括经济学忽视家庭主妇的家事劳动价值、家庭的经济掌管和收支。
 一些从物理学角度出发的科学家则批评经济学依靠的是19世纪的物理学假设，例如Nicholas Georgescu-Roegen便从热力学里提出了与能源经济学有关的熵理论，以区别他认为主流经济学依据在牛顿物理学上所建构的理论框架。他的理论对于热力经济学和生态经济学有相当的影响   Daly, H. 1995. "On Nicholas Georgescu-Roegen's Contributions to Economics: An Obituary essay." Ecological Economics 13: 149–54.   Mayumi, K. 1995. Nicholas Georgescu-Roegen (1906–1994): an admirable epistemologist. Structural Change and Economic Dynamics 6: 115–120.   Mayumi, K. and Gowdy, J. M. (eds.) 1999. Bioeconomics and Sustainability: Essays in Honor of Nicholas Georgescu-Roegen. Cheltenham: Edward Elgar.   Mayumi, K. 2001. The Origins of Ecological Economics: The Bioeconomics of Georgescu-Roegen. London: Routledge.。
-一些人例如尼可拉斯·塔雷伯（Nassim Nicholas Taleb）则批评经济学的理论方式，认为经济学过度倚赖柏拉图的理型论研究模型，并主张经济学理论错误的结果可能会对人类整体造成庞大灾害，他以随机性和不确定性问题来质疑许多既有的经济模型。然而如同其他的批评，并非所有经济学家倚赖的都是新古典经济学的模型和假设。而一些经济学家也正视了塔雷伯提出的问题，例如诺贝尔经济学奖得主丹尼尔·卡内曼便对塔雷伯的理论赞誉有嘉。而尽管这些批评的存在，主流的经济学研究所课程已经发展得越来越趋向于技术化和数学化的研究方式。
+一些人例如纳西姆·尼可拉斯·塔雷伯则批评经济学的理论方式，认为经济学过度倚赖柏拉图的理型论研究模型，并主张经济学理论错误的结果可能会对人类整体造成庞大灾害，他以随机性和不确定性问题来质疑许多既有的经济模型。然而如同其他的批评，并非所有经济学家倚赖的都是新古典经济学的模型和假设。而一些经济学家也正视了塔雷伯提出的问题，例如诺贝尔经济学奖得主丹尼尔·卡内曼便对塔雷伯的理论赞誉有嘉。而尽管这些批评的存在，主流的经济学研究所课程已经发展得越来越趋向于技术化和数学化的研究方式。
 
 8 参见
 * 经济
@@ -208,6 +208,8 @@
 * 社会资本
 * 无条件基本收入
 * 政治经济学、家庭经济学
+* 行为经济学、神经经济学、 生态经济学
+* 资讯经济学
 
 
 9 参考文献

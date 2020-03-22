@@ -69,7 +69,7 @@ Windows XP在2001年10月25日发布，2004年8月24日发布服务包2（Servic
 微软上一款作业系统Windows Vista（开发代码为Longhorn）于2007年1月30日发售。Windows Vista增加了许多功能，尤其是系统的安全性和网路管理功能，并且其拥有介面华丽的Aero Glass。但是整体而言，其在全球市场上的口碑却并不是很好。其后继者Windows 7则是于2009年10月22日发售，Windows 7改善了Windows Vista为人诟病的效能问题，相较于Windows Vista，在同样的硬体环境下，Windows 7的表现较Windows Vista为好。而最新的Windows 10则是于2015年7月29日发售。
 
 1.4.6 苹果macOS
-macOS，前称“Mac OS X”或“OS X”，是一套运行于苹果Macintosh系列电脑上的操作系统。Mac OS是首个在商用领域成功的图形用户界面系统。Macintosh开发成员包括比尔·阿特金森（Bill Atkinson）、杰夫·拉斯金（Jef Raskin）和安迪·赫茨菲尔德（Andy Hertzfeld）。从OS X 10.8开始在名字中去掉Mac，仅保留OSX和版本号。2016年6月13日在WWDC2016上，苹果公司将OS X更名为macOS，现行的最新的系统版本是macOS Mojave。
+macOS，前称“Mac OS X”或“OS X”，是一套运行于苹果Macintosh系列电脑上的操作系统。Mac OS是首个在商用领域成功的图形用户界面系统。Macintosh开发成员包括比尔·阿特金森（Bill Atkinson）、杰夫·拉斯金（Jef Raskin）和安迪·赫茨菲尔德（Andy Hertzfeld）。从OS X 10.8开始在名字中去掉Mac，仅保留OSX和版本号。2016年6月13日在WWDC2016上，苹果公司将OS X更名为macOS，现行的最新的系统版本是macOS Catalina。
 
 1.4.7 Chrome OS
 Google Chrome OS是一项Google的轻型电脑操作系统计划，其基于Google的浏览器Google Chrome的Linux内核。
@@ -197,17 +197,7 @@ GNU Hurd是一个以完全相容Unix并加强许多功能为目标的微核心�
 * （Linux由此书而启发，可惜新版本将实作内容移除）
 
 
-7 外部连结
-* OS的历史
-* 简略OS介绍的教育网站....
-* OSDP，所有作业系统的文件网站
-* Unix OS家族的历史树
-* Windows的历史
-* TLDP，Linux核心彻底讲解，适用于想要彻底了解OS核心结构者
-* 作业系统原理介绍
-
-
-8 参见
+7 参见
 * 计算机
 * 操作系统内核
 * 实时操作系统-分时系统-多任务-嵌入式系统-单一用户-多用户
@@ -228,5 +218,15 @@ GNU Hurd是一个以完全相容Unix并加强许多功能为目标的微核心�
 * Windows
 * Windows NT
 * 其它操作系统
+
+
+8 外部连结
+* OS的历史
+* 简略OS介绍的教育网站....
+* OSDP，所有作业系统的文件网站
+* Unix OS家族的历史树
+* Windows的历史
+* TLDP，Linux核心彻底讲解，适用于想要彻底了解OS核心结构者
+* 作业系统原理介绍
 
 

@@ -241,7 +241,7 @@
  * BREW
  * DoJa
  * Palm OS
- * iOS、watchOS、tvOS
+ * iOS、watchOS、tvOS、iPadOS
  * JavaOS
  * JNode
  * JX

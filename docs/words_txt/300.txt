@@ -39,6 +39,7 @@
 * VOCALOID 及 VOICEROID，前者偏重歌唱而后者偏重 TTS。
 * 盛大游戏在2012年初，发布了Android语音合成平台聼聼中心，支援本地中英文合成及变声等服务。
 * 台语语音笔记本为台湾话的语音输出 (Taiwanese Text-to-speech) 软体。系统使用 台语声调群剖析器 (Taiwanese tone group parser)、语音引擎 (Speech engine) 及语音合成器 (Speech synthesizer)直接安装于个人电脑独立运作，不需连结 MS Speech SDK或 IBM TTS Engine 。使用者图行形介面包含可用台语罗马字或中文输入、有声辞典同步显示、有声读本制作、外部应用程式/网路浏览器语音输出、台语调符转换及使用中英文语词搜寻等功能 。
+* 台湾资策会服创所团队开发出的 MULTI-OBJECT REALITY EXPERIENCE (MORE) 技术
 
 
 5 语音合成标记语言
