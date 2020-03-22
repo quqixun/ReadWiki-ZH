@@ -15,16 +15,16 @@ class WIKIParse(object):
         'MediaWiki', '模块', 'Draft', 'Help'
     ]
 
-    def __init__(self, input_file, as_md=False):
+    def __init__(self, input_file, markdown=False):
         try:
             bz2_file = bz2file.open(input_file)
             self.wiki_content = extract_pages(bz2_file)
         except Exception as e:
             raise RuntimeError(e)
 
-        self.as_md = as_md
+        self.markdown = markdown
         self.opencc = OpenCC('t2s')
-        self.nl = '\n\n' if as_md else '\n'
+        self.nl = '\n\n' if markdown else '\n'
         return
 
     def __is_not_word(self, word):
@@ -111,7 +111,7 @@ class WIKIParse(object):
             else:
                 line = title + self.nl
 
-            if self.as_md:
+            if self.markdown:
                 line = '#' * level + ' ' + line
             return line
 

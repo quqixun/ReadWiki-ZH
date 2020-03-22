@@ -1,17 +1,17 @@
 import os
 
 from tqdm import tqdm
-from wiki_parse import WIKIParse
+from .wiki_parse import WIKIParse
 
 
 class WIKIParse2Doc(WIKIParse):
 
     def __init__(
-        self, input_file, output_dir, as_md=False
+        self, input_file, output_dir, markdown=False
     ):
 
         super(WIKIParse2Doc, self).__init__(
-            input_file, as_md
+            input_file, markdown
         )
 
         try:
@@ -25,7 +25,7 @@ class WIKIParse2Doc(WIKIParse):
 
     def __to_doc(self, ID, text):
 
-        text_file = ID + '.md' if self.as_md \
+        text_file = ID + '.md' if self.markdown \
             else ID + '.txt'
 
         text_output_path = os.path.join(
@@ -37,7 +37,7 @@ class WIKIParse2Doc(WIKIParse):
 
         return
 
-    def run(self):
+    def run(self, num=None):
 
         n_iter = 0
         iter_wiki_content = tqdm(
@@ -53,13 +53,16 @@ class WIKIParse2Doc(WIKIParse):
             self.__to_doc(ID, text)
 
             n_iter += 1
-            if n_iter % 200 == 0:
+            if n_iter % 100 == 0:
                 iter_wiki_content.set_description(
                     'Articls parsed: {}'.format(n_iter)
                 )
 
             # ONLY FOR TESTING
-            if n_iter == 200:
+            if n_iter == num:
                 break
 
+        iter_wiki_content.set_description(
+            'Articls parsed: {}'.format(n_iter)
+        )
         return
