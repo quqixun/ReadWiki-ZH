@@ -1,5 +1,8 @@
 # ReadWiki-ZH
 
+从中文Wiki Dump中提取**有效词条**并转换至文本文件或Markdown文件。  
+**有效词条**： 非Template, Category, Wikipedia, File, Topic, Portal, MediaWiki, Draft, Help等类型词条，多个同义词保留其中一个词条。
+
 ### 1. 下载中文Wiki Dump
 
 #### 1.1 Wget下载
@@ -38,5 +41,5 @@ WIKIParse2Doc(xml_path, './docs/words_txt').run(num=100)
 WIKIParse2Doc(xml_path, './docs/words_md', markdown=True).run(num=100)
 ```
 
-设置```test_round=None```，提取全部有效词条。  
+设置```num=None```，提取全部有效词条。  
 词条共```3430255```个，  有效词条```1098595```个。
